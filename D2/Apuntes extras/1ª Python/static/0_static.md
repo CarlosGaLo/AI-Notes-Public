@@ -1,0 +1,3 @@
+# Static
+
+Aquí debemos poner los elementos estáticos. CSS, librerías, fuentes...

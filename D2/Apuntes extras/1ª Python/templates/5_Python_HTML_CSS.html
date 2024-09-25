@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulario de Superhéroe</title>
+    <link rel="stylesheet" href="{{url_for('static', filename='css/5_Python_HTML_CSS.css')}}" />
+  </head>
+  <body>
+    <h1>Registro de Superhéroe</h1>
+    <form id="formulario" method="post">
+      <label for="nombre">Nombre:</label>
+      <input type="text" id="nombre" name="nombre" required />
+      <br />
+      <label for="habilidad">Habilidad:</label>
+      <input type="text" id="habilidad" name="habilidad" required />
+      <br />
+      <button type="submit">Registrar</button>
+    </form>
+    <div id="resultado"></div>
+    <br /><br /><br /><br />
+    <h2>Veamos el diccionario</h2>
+    <p>{{data}}</p>
+    <p>
+      Esto lo podemos hacer gracias a Jinja2, que usa un sistema de
+      interpolación mediante dobles llaves. Lo veremos con los framework de
+      JavaScript
+    </p>
+    <p>El valor del dato es: {{data.dato}}</p>
+    {% if data.numDePelis > 0 %}
+    <p>Mis peliculas son:</p>
+    <ul>
+      {% for c in data.pelis %}
+      <li>{{c}}</li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p>No hay películas :(</p>
+    {% endif %}
+    <script>
+      document.getElementById("formulario").onsubmit = async function (event) {
+        event.preventDefault();
+
+        const nombre = document.getElementById("nombre").value;
+        const habilidad = document.getElementById("habilidad").value;
+
+        const response = await fetch("/enviar", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ nombre, habilidad }),
+        });
+
+        const data = await response.json();
+        document.getElementById("resultado").innerText = data.mensaje;
+        document.getElementById("resultado").style.color = "green";
+      };
+    </script>
+  </body>
+</html>
