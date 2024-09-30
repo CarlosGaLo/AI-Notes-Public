@@ -1,0 +1,1001 @@
+clienteId,finalizaCompra,mensualidad,nombre,edad,sexo,tieneHijos,tienePadres,provincia,nacionalidad,estudios,viajeAnual,empleado,KPIValue,Madrid,cochePropio,carnet,moto,referido,altura,peso,veDragonBall
+0,0,11.5,Pascuala Riba-Casal,40,male,1,0,Sevilla,Argentino,r,0,0,1.85,0,1,1,1,0,176,54,0
+1,1,125.67,Ovidio Barrio Manrique,22,female,1,0,Madrid,Venezolano,r,2,0,6.94,1,1,1,0,1,163,70,1
+2,0,42.88,Wilfredo Ripoll-Milla,50,male,1,1,Málaga,Colombiano,r,1,0,70.1,0,1,1,1,1,157,66,1
+3,0,107.87,Anacleto García Bustos,40,female,1,0,Sevilla,Mexicano,r,1,0,84.9,0,1,1,0,1,152,88,1
+4,0,119.2,Ana Egea Mínguez,37,male,0,0,Valencia,Mexicano,r,0,0,57.45,0,1,1,1,1,191,52,1
+5,1,127.02,Macario Ayala Moya,28,male,0,1,Barcelona,Mexicano,r,2,0,18.79,0,0,0,0,1,153,86,0
+6,0,133.73,Herminia Royo-Ferrández,29,female,1,0,Málaga,Mexicano,r,2,1,24.45,0,0,0,0,1,195,98,1
+7,0,29.44,Fanny de Solana,62,male,0,0,Barcelona,Argentino,r,2,0,2.41,0,1,1,1,1,169,74,1
+8,0,85.84,Lino Gomis Coronado,55,male,0,0,Málaga,Venezolano,r,0,0,58.41,0,0,0,1,0,166,65,0
+9,0,48.62,Paola del Villar,27,female,0,0,Madrid,Colombiano,r,2,0,75.53,1,1,1,0,1,159,53,1
+10,0,85.76,Soraya Berrocal Vallés,44,male,0,0,Málaga,Venezolano,r,2,0,90.73,0,0,0,0,1,153,57,0
+11,0,118.31,Abel Martorell Lumbreras,39,female,0,1,Valencia,Español,r,2,0,37.49,0,1,1,0,0,176,78,1
+12,0,99.29,Óscar Sureda-Gárate,57,female,1,1,Barcelona,Colombiano,r,2,0,46.1,0,0,0,1,0,166,67,0
+13,1,135.14,Lola Lorenzo Nogués,49,male,0,1,Madrid,Español,r,0,0,97.58,1,1,1,0,1,161,83,1
+14,1,15.72,Eric Lucho Burgos Montaña,28,female,0,1,Madrid,Venezolano,r,2,0,65.55,1,0,0,1,1,174,57,1
+15,1,82.16,Quirino Vinicio Coloma Salazar,18,female,0,1,Barcelona,Venezolano,r,0,0,21.72,0,0,0,1,1,179,71,0
+16,1,74.29,Lucas de Vargas,56,male,0,0,Barcelona,Español,r,1,0,93.14,0,1,1,0,1,154,70,0
+17,0,144.99,Socorro del Salinas,51,female,1,0,Málaga,Colombiano,r,2,0,98.12,0,0,0,1,0,181,92,1
+18,1,40.82,Rufina Villa Boada,44,male,1,1,Valencia,Mexicano,r,1,0,52.79,0,1,1,1,1,157,88,1
+19,0,111.52,Eva Mercader Carrillo,59,male,0,0,Valencia,Español,r,2,0,11.37,0,0,0,0,1,153,78,1
+20,1,40.55,Roberta Aramburu Ramos,57,male,1,0,Valencia,Mexicano,r,1,0,2.3,0,0,0,0,0,169,77,1
+21,0,148.44,Santos Gascón Gelabert,60,male,1,0,Valencia,Colombiano,r,0,0,65.11,0,0,0,0,0,185,83,1
+22,0,23.15,Marina Llamas Escobar,63,male,0,0,Madrid,Venezolano,r,1,0,30.89,1,0,0,0,0,193,64,1
+23,1,103.12,Mireia Elías Casanova,19,female,0,0,Málaga,Español,r,2,0,30.16,0,0,0,1,0,195,54,1
+24,0,52.87,Bernabé Acevedo Frutos,46,female,0,0,Valencia,Colombiano,r,2,1,34.24,0,0,0,0,1,182,51,1
+25,0,100.46,Josefa Manuel-Sosa,36,male,0,0,Barcelona,Venezolano,r,2,0,11.61,0,0,0,1,0,168,79,0
+26,0,97.81,Apolonia Mancebo Bastida,44,female,1,0,Madrid,Mexicano,r,0,0,78.22,1,0,0,1,0,173,87,1
+27,0,142.99,Nico Palomar Plaza,34,male,0,1,Málaga,Español,r,1,1,43.14,0,0,0,1,1,177,72,0
+28,1,64.9,Jessica Camino Navas,28,male,1,1,Sevilla,Venezolano,r,2,0,84.32,0,0,0,0,1,184,83,1
+29,1,132.63,Benita Guardia,26,male,1,1,Madrid,Venezolano,r,0,1,94.83,1,1,1,0,1,197,51,1
+30,0,79.44,Ximena Beltrán Vives,49,male,0,1,Madrid,Mexicano,r,0,0,99.34,1,0,0,0,1,160,92,1
+31,0,83.63,Pastora Luján Cabo,43,male,0,1,Madrid,Colombiano,r,2,0,80.31,1,0,0,0,0,191,79,0
+32,1,38.31,Vito Borrego Cazorla,65,female,0,0,Valencia,Colombiano,r,1,1,70.73,0,1,1,0,1,195,66,1
+33,0,110.38,Eulalia del Morata,62,male,1,1,Madrid,Mexicano,r,0,0,3.05,1,0,0,0,0,156,98,1
+34,1,115.56,Aurelio Ovidio Nogués Somoza,63,female,1,1,Valencia,Venezolano,r,1,0,38.15,0,0,0,0,1,160,87,0
+35,1,111.2,Yéssica Seco Giménez,23,female,0,0,Málaga,Mexicano,r,2,1,76.25,0,0,0,0,0,176,60,1
+36,0,149.45,Valeria Ayuso Silva,41,female,1,0,Madrid,Colombiano,r,1,0,83.17,1,1,1,1,1,158,85,0
+37,0,72.49,Hortensia Zaragoza Oliver,36,male,0,1,Madrid,Argentino,r,0,0,2.5,1,0,0,0,0,155,75,0
+38,1,95.39,Regina Portero-Mulet,62,male,0,0,Málaga,Venezolano,r,2,1,69.49,0,1,1,0,0,173,58,1
+39,0,115.95,Alonso Mayol Llobet,20,female,0,1,Málaga,Venezolano,r,1,0,87.46,0,1,1,0,1,187,83,1
+40,0,11.12,Consuelo Ferrero Páez,59,female,1,0,Madrid,Argentino,r,1,0,86.11,1,0,0,1,0,151,69,0
+41,1,149.16,Eleuterio Acevedo,35,female,0,1,Valencia,Español,r,1,0,1.53,0,0,0,0,1,155,69,0
+42,1,79.95,Berta Asenjo Gimeno,40,female,1,0,Madrid,Venezolano,r,1,0,91.22,1,0,0,0,1,167,91,1
+43,0,127.16,Abril Virginia Sala Royo,39,male,1,1,Madrid,Español,r,2,0,23.66,1,0,0,0,0,185,69,1
+44,1,18.69,Nazaret Aranda Pozuelo,34,male,0,1,Sevilla,Español,r,1,0,31.29,0,1,1,1,0,154,89,1
+45,1,119.91,Edelmira Navas,47,male,1,1,Málaga,Venezolano,r,1,0,39.76,0,0,0,0,1,158,86,0
+46,0,136.56,Reyna Castejón,49,female,1,0,Valencia,Colombiano,r,0,0,8.49,0,0,0,1,0,179,54,0
+47,0,53.37,Nydia Lobo Borja,46,female,1,1,Madrid,Mexicano,r,0,0,63.01,1,0,0,1,0,196,71,0
+48,1,53.5,Edmundo Ariel Malo Márquez,36,male,1,0,Málaga,Venezolano,r,2,0,44.89,0,1,1,0,1,154,75,0
+49,1,39.12,Saturnino de Alsina,24,female,1,1,Barcelona,Mexicano,r,0,0,94.72,0,1,1,1,1,174,54,0
+50,1,19.64,Sabina Jara Mercader,36,female,1,0,Madrid,Español,r,2,0,70.37,1,1,1,1,0,152,93,1
+51,1,64.04,Felicia Malo,63,female,0,1,Barcelona,Mexicano,r,1,0,42.7,0,1,1,0,0,154,91,1
+52,0,129.59,Noé Caballero Guillen,51,male,1,1,Valencia,Colombiano,r,2,0,74.88,0,1,1,1,0,154,64,1
+53,0,30.35,Lupe Mosquera Vicente,34,female,1,1,Barcelona,Mexicano,r,1,0,60.73,0,1,1,0,0,190,70,1
+54,1,145.95,Piedad Sarita Peral Aparicio,35,male,1,0,Barcelona,Español,r,2,0,41.34,0,1,1,0,0,198,54,1
+55,1,79.46,Ana Sofía Fuertes,31,male,0,1,Málaga,Español,r,2,1,29.47,0,0,0,1,0,191,50,1
+56,1,20.4,Maximiano Alarcón-Alfaro,35,male,1,1,Sevilla,Venezolano,r,1,0,69.94,0,0,0,1,0,172,64,0
+57,1,51.26,Luisina Yáñez,28,female,0,0,Málaga,Español,r,1,0,25.04,0,0,0,0,1,200,96,0
+58,0,44.77,Josefina Vallejo,39,male,1,0,Madrid,Mexicano,r,0,0,53.51,1,1,1,1,1,154,59,0
+59,0,102.71,César Bernad,26,male,0,1,Málaga,Colombiano,r,1,0,96.77,0,1,1,0,0,157,68,0
+60,0,114.78,Ruperta Comas Arnaiz,63,male,1,1,Valencia,Colombiano,r,1,0,22.7,0,1,1,0,1,155,80,0
+61,0,112.61,Georgina Naranjo,32,male,1,0,Madrid,Español,r,1,0,2.43,1,1,1,0,1,177,72,1
+62,0,147.79,Amancio Bru Roman,38,male,0,1,Málaga,Español,r,0,0,14.22,0,1,1,1,1,185,87,1
+63,0,99.56,Jose Miguel Tejero Galan,63,male,1,0,Málaga,Español,r,0,0,58.69,0,1,1,1,0,184,83,0
+64,0,26.79,Gema Fernández,23,female,1,1,Málaga,Mexicano,r,2,0,73.09,0,0,0,1,1,160,75,1
+65,0,64.72,Lucía Vilanova Cepeda,37,male,0,0,Valencia,Mexicano,r,2,0,51.37,0,0,0,1,1,199,65,1
+66,0,133.81,Tere Cabeza Tur,48,female,0,1,Málaga,Argentino,r,1,0,47.07,0,0,0,0,0,187,66,1
+67,0,61.7,Carmina Pareja Duque,39,female,1,1,Sevilla,Venezolano,r,2,0,56.51,0,1,1,0,1,173,60,1
+68,0,11.83,Enrique Guillén-Rodrigo,24,male,1,1,Málaga,Argentino,r,2,0,62.55,0,0,0,0,1,155,64,0
+69,0,59.31,Adelardo Bou,62,female,1,1,Málaga,Colombiano,r,0,0,0.92,0,0,0,0,1,186,85,0
+70,0,33.54,Sara Pavón Azcona,48,female,0,0,Sevilla,Colombiano,r,2,0,63.99,0,1,1,1,0,197,72,0
+71,0,46.93,Estefanía Sierra Cánovas,23,male,1,1,Barcelona,Mexicano,r,1,0,19.99,0,1,1,1,1,164,81,1
+72,0,38.36,Saturnina Marín,46,male,1,1,Madrid,Mexicano,r,1,0,70.18,1,1,1,1,1,189,100,0
+73,1,61.07,Javier Galvez Estévez,49,female,0,0,Madrid,Venezolano,r,1,0,90.11,1,0,0,1,0,185,53,0
+74,0,122.19,Ámbar Pou,24,female,1,0,Málaga,Argentino,r,0,0,68.76,0,1,1,0,1,167,54,0
+75,1,125.73,Prudencio Sebastián Valentín Bernad,54,female,0,1,Valencia,Colombiano,r,0,0,46.73,0,0,0,1,1,194,56,0
+76,0,39.54,Emiliana del Arévalo,32,female,1,1,Madrid,Argentino,r,1,0,50.51,1,0,0,1,1,175,98,0
+77,1,96.42,Pedro Blanco,54,male,1,1,Málaga,Colombiano,r,0,1,17.03,0,0,0,0,0,161,100,1
+78,1,129.12,Olalla Ordóñez Vicente,62,female,0,0,Málaga,Argentino,r,0,1,88.8,0,0,0,0,1,171,50,0
+79,0,11.37,Rolando Águila Bello,19,female,1,0,Sevilla,Mexicano,r,2,0,33.93,0,0,0,1,0,188,72,1
+80,1,122.66,Melchor Gómez Ugarte,64,female,0,0,Madrid,Español,r,0,0,44.84,1,0,0,1,1,154,53,1
+81,1,19.97,Evelia del Cisneros,41,male,0,0,Sevilla,Español,r,1,0,73.46,0,1,1,1,0,191,77,0
+82,1,96.86,Nazaret Dueñas Llopis,65,female,0,1,Málaga,Argentino,r,2,0,98.12,0,1,1,1,0,191,58,0
+83,1,149.96,Francisca Solís Menéndez,44,male,1,0,Valencia,Argentino,r,1,0,37.42,0,0,0,1,1,165,61,0
+84,1,70.11,Martin del Manso,36,male,0,1,Valencia,Español,r,1,0,69.78,0,1,1,1,1,174,79,0
+85,0,112.64,Tadeo Estrada Juliá,54,female,1,1,Sevilla,Colombiano,r,0,0,89.33,0,1,1,1,0,200,83,0
+86,1,143.81,Máximo Iglesia-Verdejo,48,male,0,0,Málaga,Venezolano,r,2,0,64.08,0,0,0,0,1,185,63,1
+87,1,134.42,Santos Roura Amador,23,female,1,1,Valencia,Español,r,1,0,83.64,0,0,0,1,1,181,62,1
+88,1,137.05,Saturnina Cal Blázquez,53,male,1,0,Madrid,Español,r,0,0,77.26,1,0,0,0,0,168,81,0
+89,1,76.42,Dani Alberto Mateo,41,female,0,0,Madrid,Venezolano,r,2,1,98.32,1,0,0,1,1,151,93,0
+90,0,103.84,Jose Carlos Bejarano Marti,38,female,1,1,Barcelona,Mexicano,r,0,0,34.86,0,0,0,1,1,170,87,1
+91,1,69.72,Isidora Valencia Ferrera,18,male,0,0,Barcelona,Argentino,r,0,0,83.73,0,1,1,0,1,188,69,1
+92,1,51.82,Adriana Bayo Echevarría,32,male,1,0,Madrid,Venezolano,r,0,1,75.48,1,0,0,1,0,181,51,0
+93,0,13.13,Socorro Manuela Comas Valcárcel,23,male,0,1,Málaga,Español,r,1,0,12.72,0,1,1,1,0,169,82,0
+94,0,104.7,Graciela Robles Solera,37,female,0,0,Sevilla,Mexicano,r,0,0,40.16,0,0,0,1,1,154,98,1
+95,0,65.61,Visitación Vives Carrasco,25,male,0,1,Sevilla,Mexicano,r,1,0,14.51,0,1,1,0,1,177,79,1
+96,1,89.05,Josué Balaguer Carnero,34,female,1,1,Valencia,Venezolano,r,0,0,55.44,0,0,0,1,1,156,78,0
+97,0,142.67,Francisca Salom-Escrivá,25,male,1,0,Valencia,Español,r,1,1,86.34,0,1,1,1,0,151,73,1
+98,0,14.0,Benita Verónica Cuevas Montserrat,49,male,0,1,Sevilla,Venezolano,r,1,0,7.75,0,1,1,1,1,181,77,1
+99,1,34.24,Eladio Duque-Barriga,46,male,0,0,Sevilla,Español,r,0,0,52.17,0,1,1,0,0,200,65,0
+100,0,55.29,Dalila Amador Castell,36,female,0,0,Barcelona,Colombiano,r,1,0,25.95,0,1,1,0,0,178,90,0
+101,1,118.8,Simón Palomar Navarro,18,female,0,0,Sevilla,Colombiano,r,1,1,97.88,0,0,0,1,1,191,94,0
+102,0,136.08,Rocío Soto Cerdá,43,female,1,0,Valencia,Venezolano,r,2,0,28.14,0,1,1,0,0,183,94,1
+103,0,68.02,Aurelio de Nadal,42,male,1,0,Sevilla,Colombiano,r,1,0,53.2,0,1,1,0,1,171,74,0
+104,1,36.67,Nélida Evita Arroyo Ponce,39,female,1,0,Málaga,Venezolano,r,1,0,76.8,0,1,1,1,0,150,78,1
+105,0,83.66,Sabina Manzano Haro,21,male,0,0,Madrid,Venezolano,r,2,1,66.28,1,1,1,0,0,153,78,1
+106,1,41.99,Estefanía Botella Sandoval,64,female,0,1,Sevilla,Mexicano,r,2,1,4.27,0,1,1,0,1,160,98,0
+107,0,47.76,Tecla Gutiérrez Olivé,54,male,1,0,Sevilla,Mexicano,r,2,0,92.17,0,0,0,0,1,180,54,0
+108,1,125.09,Lázaro de Conesa,23,male,1,1,Barcelona,Argentino,r,1,0,12.68,0,0,0,0,1,165,75,1
+109,1,16.04,Jacinto Valencia-Franch,43,female,1,0,Sevilla,Argentino,r,2,0,92.61,0,0,0,1,0,183,50,0
+110,1,105.88,Luciana Cabrero-Mancebo,22,male,0,0,Madrid,Colombiano,r,0,0,22.66,1,1,1,1,0,197,61,1
+111,0,54.89,Germán Cañete,52,female,0,1,Madrid,Colombiano,r,1,0,59.27,1,1,1,1,1,166,78,1
+112,0,27.37,Encarna Diego Viana,63,female,1,0,Valencia,Mexicano,r,2,0,50.44,0,1,1,0,0,166,94,0
+113,0,118.08,Begoña Pintor Huertas,30,female,1,0,Barcelona,Español,r,1,0,44.98,0,0,0,0,1,190,55,0
+114,0,83.19,Vicenta del Heredia,38,female,1,0,Sevilla,Argentino,r,1,0,63.94,0,0,0,0,1,151,97,1
+115,0,145.36,Ruperto Aroca Luís,36,male,1,0,Barcelona,Mexicano,r,0,0,88.59,0,0,0,1,0,172,76,0
+116,0,80.48,Amarilis Carrión Ballester,19,female,0,1,Málaga,Venezolano,r,1,0,80.11,0,0,0,1,0,181,87,1
+117,0,106.76,Julie del Bustos,24,male,1,1,Málaga,Argentino,r,0,0,56.42,0,1,1,1,0,187,81,1
+118,1,104.47,Adelaida del Baena,22,female,1,0,Barcelona,Argentino,r,0,0,67.93,0,0,0,0,0,167,89,0
+119,0,87.65,Juan Moliner Lobo,51,female,0,1,Barcelona,Argentino,r,1,0,57.42,0,1,1,0,1,200,89,0
+120,0,92.5,Corona Eva María Yáñez Gascón,22,female,0,0,Barcelona,Mexicano,r,2,0,42.13,0,1,1,1,1,182,51,0
+121,1,142.28,Albina Herminia Ledesma Solís,59,male,1,0,Valencia,Argentino,r,0,1,60.29,0,0,0,1,1,179,88,0
+122,0,129.89,Dorotea Clavero,60,male,0,0,Barcelona,Mexicano,r,2,0,18.53,0,1,1,0,1,192,85,0
+123,1,31.17,Dalila Alarcón Galan,20,male,0,0,Sevilla,Argentino,r,1,0,29.57,0,1,1,0,1,175,64,0
+124,0,100.74,Amaro Ferreras Melero,47,female,0,1,Valencia,Argentino,r,1,0,9.41,0,0,0,0,1,198,71,0
+125,1,52.98,Luis Morán,55,male,0,0,Málaga,Venezolano,r,0,0,16.91,0,1,1,0,0,162,80,1
+126,1,46.04,Isabel Almansa,55,male,0,0,Barcelona,Colombiano,r,0,0,55.02,0,0,0,0,0,169,54,1
+127,1,92.95,Isaías del Vigil,38,female,1,1,Málaga,Español,r,0,0,49.08,0,1,1,1,1,159,50,0
+128,0,30.64,Graciela Candela Mate Pozo,37,male,1,0,Madrid,Argentino,r,0,0,41.12,1,1,1,1,1,177,52,1
+129,1,123.92,Nicodemo Horacio Nevado Ayuso,22,male,0,0,Sevilla,Mexicano,r,0,0,75.33,0,0,0,1,1,160,62,0
+130,0,79.77,Marcio Torrent Gonzalo,28,female,0,1,Valencia,Colombiano,r,0,0,80.79,0,1,1,1,1,164,62,1
+131,1,40.36,Lola Guardiola Carreño,64,female,1,1,Madrid,Venezolano,r,2,1,7.05,1,0,0,1,0,198,67,1
+132,1,30.18,Edu Bou Huguet,43,male,1,0,Valencia,Argentino,r,1,0,78.11,0,0,0,1,1,172,59,0
+133,1,120.87,Andrea Mayoral Morante,40,female,1,0,Málaga,Mexicano,r,2,0,68.23,0,0,0,1,1,174,56,0
+134,0,72.57,Dionisio Riba Galán,60,male,0,0,Valencia,Argentino,r,2,0,1.55,0,1,1,0,1,169,78,0
+135,1,85.6,Perla Hernández Rovira,40,male,1,1,Barcelona,Argentino,r,1,0,46.28,0,1,1,1,1,180,57,0
+136,0,144.56,Carmela Iglesia-Ariño,23,male,1,0,Valencia,Colombiano,r,1,0,39.18,0,0,0,0,1,183,73,1
+137,0,13.81,Ciríaco del Jordán,24,female,1,0,Barcelona,Español,r,0,0,65.04,0,0,0,0,1,175,88,0
+138,1,141.68,Adolfo Navas,54,female,1,0,Sevilla,Colombiano,r,2,0,66.72,0,1,1,0,1,192,67,0
+139,1,42.66,Nydia Patiño Velasco,21,female,0,0,Madrid,Español,r,1,0,86.46,1,1,1,1,0,178,81,1
+140,0,36.87,Obdulia Llorens-Manrique,59,female,0,0,Málaga,Argentino,r,0,0,72.56,0,0,0,1,0,152,73,1
+141,1,10.43,Ambrosio Mate Zurita,43,female,1,0,Madrid,Venezolano,r,1,1,0.68,1,1,1,0,0,177,64,0
+142,0,118.14,Daniela Valverde Sales,55,female,1,1,Málaga,Mexicano,r,2,0,53.79,0,1,1,1,1,164,98,0
+143,1,68.75,Jordán Campillo Cadenas,34,male,0,1,Sevilla,Mexicano,r,2,0,10.28,0,1,1,1,0,200,78,0
+144,0,34.56,Pancho Carlito Rodrigo Matas,65,female,1,0,Barcelona,Colombiano,r,1,0,4.05,0,1,1,0,0,188,68,0
+145,1,60.75,Alex Perea,51,male,1,0,Barcelona,Argentino,r,1,0,34.82,0,0,0,1,0,195,53,1
+146,0,134.11,Salvador Palmer-Suárez,38,female,0,0,Barcelona,Español,r,2,0,42.04,0,0,0,1,1,163,83,1
+147,0,70.56,Azahar Alarcón,18,female,1,1,Valencia,Mexicano,r,0,0,63.36,0,1,1,0,1,166,75,1
+148,1,23.54,Florina Santana Hernández,47,male,1,1,Sevilla,Venezolano,r,0,0,43.2,0,0,0,0,1,158,100,0
+149,0,112.21,Régulo de Tomé,32,female,1,1,Sevilla,Argentino,r,1,0,0.03,0,0,0,1,1,192,90,0
+150,1,81.31,Rocío Pedrosa Santos,65,female,0,0,Madrid,Venezolano,r,2,0,43.85,1,0,0,0,0,193,85,1
+151,0,48.65,Duilio Busquets Godoy,32,male,1,0,Málaga,Español,r,2,0,79.33,0,1,1,0,1,155,93,1
+152,0,74.73,Miguel Amores,48,male,1,0,Barcelona,Argentino,r,1,1,60.57,0,1,1,0,1,187,78,0
+153,1,73.66,Nilo del Ródenas,56,female,1,1,Sevilla,Argentino,r,0,1,56.75,0,1,1,1,0,157,99,1
+154,1,59.86,Lisandro Palacio Murillo,47,female,1,1,Málaga,Mexicano,r,1,0,2.06,0,0,0,0,0,162,79,0
+155,0,60.84,Alejandro Gimeno Vizcaíno,19,female,0,0,Málaga,Mexicano,r,1,0,36.94,0,0,0,0,0,180,80,1
+156,1,118.39,Adriana Alcolea Alvarez,24,female,1,1,Sevilla,Venezolano,r,1,0,3.47,0,0,0,0,0,200,62,0
+157,1,111.41,Zaida Carlota Vargas Valls,51,male,0,1,Sevilla,Mexicano,r,0,1,50.64,0,0,0,1,1,174,62,1
+158,1,68.93,Luís Figueras Sanchez,60,male,1,1,Sevilla,Mexicano,r,0,0,49.88,0,1,1,1,1,150,66,0
+159,0,127.86,Valero Matas Santamaria,57,female,1,0,Sevilla,Mexicano,r,0,1,31.3,0,1,1,1,1,159,56,1
+160,0,75.04,Goyo Barral-Franch,24,female,1,1,Barcelona,Español,r,0,0,82.83,0,0,0,0,0,180,80,1
+161,0,44.17,Roberta Gracia Urrutia,23,male,1,0,Sevilla,Español,r,0,0,30.69,0,0,0,0,0,162,83,0
+162,1,145.82,Guillermo Rios Calvet,18,female,1,0,Valencia,Colombiano,r,0,0,96.14,0,0,0,0,0,199,63,0
+163,1,34.95,Clemente Moreno Mena,18,female,1,1,Valencia,Argentino,r,1,0,15.89,0,0,0,0,1,185,82,0
+164,1,122.56,Juan Antonio Sáenz-Chacón,41,male,0,0,Sevilla,Mexicano,r,2,0,90.84,0,1,1,1,1,167,76,1
+165,1,98.26,Palmira Bernad-Mosquera,25,male,1,1,Madrid,Colombiano,r,2,0,32.55,1,1,1,1,0,190,67,0
+166,1,31.05,Natanael Barros Ortiz,37,male,1,0,Barcelona,Español,r,1,0,69.29,0,1,1,0,1,190,100,1
+167,0,79.23,Rosaura Pujol Uriarte,54,male,0,0,Málaga,Argentino,r,0,0,10.8,0,0,0,0,0,179,58,1
+168,1,39.45,Gregorio Juan Mateu,60,female,1,1,Barcelona,Argentino,r,1,0,7.67,0,0,0,0,1,170,58,1
+169,0,76.19,Cecilio Merino Castellanos,28,male,0,1,Madrid,Venezolano,r,0,1,19.49,1,1,1,0,1,159,59,0
+170,0,115.56,Rita Oliveras Naranjo,21,female,1,0,Sevilla,Venezolano,r,1,0,1.68,0,0,0,1,1,155,74,1
+171,1,58.63,Yaiza Valcárcel Pastor,43,female,0,1,Málaga,Argentino,r,2,0,74.61,0,1,1,0,0,200,94,0
+172,0,76.88,Adelaida de Salvà,43,male,0,0,Valencia,Venezolano,r,2,0,95.57,0,1,1,0,1,177,94,1
+173,1,139.39,Eladio Uría-Amigó,20,female,0,1,Barcelona,Mexicano,r,1,1,95.24,0,1,1,1,0,179,56,0
+174,0,99.11,Guiomar Figueroa Camacho,58,male,1,1,Sevilla,Colombiano,r,0,0,2.52,0,1,1,0,1,178,54,1
+175,1,19.49,Malena Rincón Roig,44,male,0,0,Barcelona,Venezolano,r,1,0,87.86,0,0,0,1,1,150,94,0
+176,0,30.77,Nieves Iglesias Baró,57,female,1,1,Sevilla,Español,r,1,0,23.75,0,1,1,1,0,178,87,1
+177,1,28.36,Lucas Grau-López,54,female,1,1,Sevilla,Argentino,r,1,0,14.92,0,1,1,0,1,175,57,0
+178,1,14.21,Gonzalo Guzmán,63,female,0,0,Valencia,Argentino,r,2,1,94.18,0,1,1,0,1,172,56,0
+179,1,82.54,Marciano Fito Mena Cabeza,22,male,1,1,Barcelona,Venezolano,r,2,0,96.06,0,0,0,1,0,150,56,0
+180,0,72.93,Alcides Vélez Arjona,56,female,0,1,Valencia,Argentino,r,0,0,75.51,0,0,0,1,0,174,90,1
+181,0,135.34,Bibiana Caballero-Abril,18,female,1,0,Málaga,Colombiano,r,2,0,31.58,0,1,1,0,1,165,73,0
+182,1,50.26,Eli Gimeno,63,female,0,0,Málaga,Argentino,r,1,0,83.98,0,0,0,1,1,178,91,1
+183,1,131.16,Toño Miranda Gómez,44,male,1,1,Madrid,Mexicano,r,2,0,76.02,1,1,1,1,1,154,71,1
+184,0,112.67,Cleto Sanjuan Ortega,24,female,0,0,Málaga,Colombiano,r,0,0,26.16,0,0,0,0,0,180,79,0
+185,0,90.31,Eusebio Parejo Barreda,53,male,0,0,Málaga,Venezolano,r,0,0,43.9,0,1,1,0,1,173,66,0
+186,1,115.09,Roberta Giralt-Esteve,64,female,1,0,Madrid,Venezolano,r,2,0,61.77,1,1,1,1,0,175,73,0
+187,1,34.37,Ángela Falcón Serra,20,male,1,0,Málaga,Mexicano,r,0,0,47.19,0,1,1,1,0,165,94,1
+188,1,101.99,Goyo Arcos Riera,37,male,0,1,Málaga,Mexicano,r,2,1,80.96,0,0,0,1,1,155,88,0
+189,1,30.08,Eutropio Trillo Melero,58,male,0,0,Valencia,Argentino,r,0,0,16.69,0,1,1,1,0,194,55,1
+190,1,117.18,Andrés Felipe Doménech Almazán,35,male,1,1,Valencia,Colombiano,r,2,1,43.98,0,0,0,1,0,181,72,0
+191,0,147.2,Griselda Piña,36,male,1,1,Barcelona,Colombiano,r,1,0,33.29,0,1,1,0,1,182,52,1
+192,0,47.85,Amaro Cayetano Llamas Soriano,28,male,1,0,Sevilla,Argentino,r,0,1,84.05,0,0,0,0,0,190,62,0
+193,1,97.63,Jose Francisco Calvet-López,54,male,0,1,Sevilla,Español,r,0,0,93.41,0,0,0,1,0,169,61,1
+194,0,128.37,Clarisa Pacheco-Antón,52,female,1,0,Málaga,Español,r,1,0,92.51,0,0,0,1,1,187,59,1
+195,1,121.13,José Manrique-Mata,60,male,1,0,Madrid,Venezolano,r,2,1,52.89,1,0,0,1,1,191,81,1
+196,1,83.16,Apolinar Gual Folch,43,female,1,0,Madrid,Mexicano,r,0,1,51.71,1,1,1,0,1,197,77,1
+197,0,27.22,Rosendo Gras Barba,55,male,1,1,Barcelona,Mexicano,r,0,0,69.67,0,1,1,1,1,177,64,1
+198,1,107.67,Rosalía Antonia Múñiz Bermudez,52,male,0,1,Madrid,Español,r,2,0,11.92,1,0,0,0,1,166,58,0
+199,1,113.05,Benigno del Segarra,33,female,1,0,Valencia,Argentino,r,1,0,95.23,0,1,1,0,1,194,63,0
+200,0,148.94,Bernarda Bosch Pulido,57,female,1,0,Sevilla,Venezolano,r,0,0,29.54,0,1,1,1,1,194,89,1
+201,1,93.07,Calixto Morcillo Cabo,43,female,1,1,Madrid,Mexicano,r,0,0,8.36,1,1,1,0,1,156,66,1
+202,1,120.59,Teresita Lucas Cuevas,44,female,0,0,Madrid,Argentino,r,2,1,72.8,1,0,0,1,0,172,55,0
+203,0,79.18,José María Nuñez Ibañez,34,male,0,1,Barcelona,Español,r,0,0,29.7,0,1,1,1,1,163,69,1
+204,0,76.11,Felicidad Rosario Boix Lucas,21,female,0,0,Valencia,Colombiano,r,2,0,19.18,0,1,1,1,0,188,82,0
+205,0,23.47,Leonardo Mateo Escudero,27,male,0,1,Valencia,Argentino,r,2,0,69.38,0,0,0,0,0,183,59,0
+206,0,120.43,Gaspar del Comas,21,male,0,0,Málaga,Argentino,r,1,0,3.32,0,0,0,1,0,158,97,1
+207,0,13.58,Andrés Felipe Riba Manzano,41,male,0,0,Madrid,Argentino,r,2,0,92.4,1,0,0,1,0,193,98,1
+208,1,145.7,Zaira Carballo Pou,40,female,1,0,Valencia,Argentino,r,1,1,76.41,0,0,0,0,1,196,56,0
+209,0,127.7,Ruperta Royo Carmona,40,male,1,1,Málaga,Argentino,r,0,1,47.27,0,0,0,0,0,174,55,1
+210,1,52.78,Nuria Colomer Sedano,23,male,0,1,Barcelona,Español,r,1,1,34.08,0,1,1,1,0,184,66,1
+211,1,58.47,Eutimio Checa Ríos,48,female,0,0,Málaga,Venezolano,r,2,1,41.36,0,0,0,1,1,154,99,1
+212,1,47.27,Benjamín Valcárcel Antón,42,male,1,0,Valencia,Colombiano,r,2,0,29.09,0,1,1,0,1,159,76,1
+213,1,67.87,Candela Hernando Montenegro,41,female,0,1,Barcelona,Argentino,r,0,0,30.09,0,1,1,1,0,184,64,0
+214,0,41.12,Ariel Casado Tamayo,56,female,1,0,Madrid,Mexicano,r,2,0,90.28,1,1,1,0,1,196,60,0
+215,1,118.31,Julieta Hoz Morillo,31,male,1,0,Madrid,Argentino,r,1,0,57.47,1,1,1,1,0,167,79,1
+216,1,95.43,Gaspar Carrillo Martorell,47,male,1,0,Madrid,Colombiano,r,1,0,13.99,1,1,1,1,0,168,81,0
+217,1,135.99,Eulalia Flor Pazos,50,female,1,0,Sevilla,Venezolano,r,1,0,28.45,0,0,0,0,1,160,53,1
+218,0,127.62,Conrado Manzanares-Gaya,26,female,1,1,Valencia,Español,r,1,0,60.95,0,0,0,0,0,166,53,1
+219,0,83.58,Anna de Escolano,61,male,1,0,Sevilla,Español,r,1,0,93.83,0,1,1,1,1,177,83,1
+220,0,71.47,María Jesús Ariño Nogués,56,male,1,1,Valencia,Venezolano,r,1,0,44.78,0,1,1,1,0,154,67,1
+221,1,18.0,Manuelita Abellán Alarcón,28,female,1,0,Madrid,Colombiano,r,0,0,19.63,1,0,0,0,1,157,91,1
+222,0,10.1,Calisto Morillo Lucas,32,female,1,1,Barcelona,Mexicano,r,0,0,98.11,0,1,1,0,0,185,50,0
+223,1,132.43,Emilio Cano Alberola,64,female,1,1,Madrid,Venezolano,r,2,1,28.0,1,1,1,1,0,196,100,1
+224,0,125.46,Yésica Aznar Vall,24,male,1,0,Valencia,Colombiano,r,1,0,54.64,0,0,0,1,0,196,53,1
+225,1,103.69,Isabel Pozo Morell,35,female,1,1,Sevilla,Venezolano,r,1,0,30.12,0,1,1,0,1,182,68,1
+226,0,135.32,Alex Bauzà Manrique,21,female,1,1,Sevilla,Mexicano,r,0,1,74.84,0,1,1,0,1,170,62,1
+227,1,143.79,Fabiana Blanes Herranz,49,female,1,1,Valencia,Venezolano,r,2,1,1.28,0,1,1,1,0,189,80,0
+228,1,129.35,Jenaro Esteban Lobo,62,male,1,1,Sevilla,Mexicano,r,1,0,32.89,0,1,1,1,1,186,77,0
+229,0,98.73,Ana Sofía Pazos Solsona,33,male,0,1,Madrid,Colombiano,r,1,0,84.48,1,1,1,1,0,195,69,1
+230,1,72.04,Graciana Esteban Madrigal,24,male,1,1,Valencia,Colombiano,r,0,0,45.57,0,0,0,1,0,153,93,1
+231,1,105.97,Nicodemo Pareja Fernández,41,female,0,0,Málaga,Colombiano,r,0,0,47.38,0,0,0,0,1,187,94,0
+232,0,74.14,Pepe Cózar Ariza,30,male,1,1,Sevilla,Colombiano,r,0,0,21.13,0,1,1,1,1,199,89,1
+233,1,139.95,Octavio Palacios Elías,57,male,0,0,Sevilla,Español,r,1,0,39.81,0,0,0,0,0,151,75,1
+234,1,39.88,Jeremías Valero Jordán,44,female,1,1,Sevilla,Español,r,1,0,98.2,0,0,0,1,1,179,56,0
+235,1,125.13,Elena Ramis Espada,41,male,1,0,Valencia,Venezolano,r,2,0,25.57,0,0,0,0,0,169,60,1
+236,1,96.64,Lilia Roig Carreras,61,female,1,1,Madrid,Venezolano,r,1,0,59.81,1,1,1,0,0,151,96,1
+237,1,60.64,Néstor Riba Palomo,41,male,0,0,Málaga,Mexicano,r,2,0,87.34,0,1,1,0,0,168,76,1
+238,0,100.69,Zoraida Santamaría Rey,22,female,1,1,Málaga,Español,r,0,0,63.04,0,0,0,1,1,176,58,0
+239,0,106.67,Febe Andrés Ribera,59,female,1,0,Valencia,Español,r,2,1,72.25,0,1,1,1,1,194,50,0
+240,0,79.34,Nydia Azorin,40,female,1,1,Valencia,Argentino,r,2,0,36.18,0,1,1,1,1,171,97,0
+241,0,127.92,Liliana Febe Granados Montaña,65,male,1,1,Málaga,Venezolano,r,1,0,19.19,0,1,1,1,0,152,69,1
+242,1,92.04,Natalia Sacristán Fernández,40,male,1,0,Barcelona,Colombiano,r,0,0,88.58,0,1,1,0,0,172,86,0
+243,0,137.19,Heraclio Gutiérrez Yuste,38,male,1,1,Sevilla,Español,r,0,1,3.93,0,1,1,0,1,160,78,1
+244,1,45.67,Luisina del Cortés,28,female,1,0,Barcelona,Mexicano,r,1,1,25.96,0,1,1,0,1,197,77,1
+245,1,26.08,Ernesto Valdés Armas,63,female,1,0,Valencia,Colombiano,r,1,0,12.48,0,0,0,0,1,156,75,0
+246,0,57.78,Eduardo Herranz Robles,39,female,1,1,Sevilla,Argentino,r,1,0,92.0,0,0,0,1,1,166,87,1
+247,0,129.42,Baudelio Benet Blazquez,35,female,1,0,Málaga,Mexicano,r,2,0,17.85,0,1,1,0,0,170,79,1
+248,1,80.35,Adelia Modesta Sanz Zabaleta,26,female,1,0,Valencia,Colombiano,r,2,0,23.68,0,0,0,0,0,152,59,1
+249,0,120.48,Juan Pablo Vara-Arellano,60,female,0,0,Sevilla,Mexicano,r,0,0,55.82,0,1,1,0,0,198,75,1
+250,0,47.1,Reynaldo Barrera Noriega,58,female,1,1,Valencia,Mexicano,r,0,1,58.45,0,0,0,1,0,186,91,0
+251,1,18.17,Bernardino Viñas Reig,34,male,0,1,Sevilla,Español,r,0,0,30.32,0,1,1,1,0,184,69,0
+252,0,109.23,Albino Aznar Ferrández,35,female,1,0,Madrid,Venezolano,r,2,1,23.62,1,0,0,0,1,153,83,1
+253,0,112.33,Bárbara Baeza Cerezo,39,female,0,1,Sevilla,Español,r,1,0,21.01,0,1,1,1,0,197,62,1
+254,0,58.54,Roque Bello Real,58,male,0,0,Málaga,Español,r,0,0,68.96,0,1,1,0,1,157,79,0
+255,0,94.69,Lina Quintero-Merino,62,female,0,1,Barcelona,Colombiano,r,2,0,26.48,0,1,1,0,0,159,99,0
+256,0,49.78,Nilo de Martin,57,female,0,0,Valencia,Venezolano,r,0,0,91.42,0,0,0,1,1,154,96,1
+257,1,117.17,Violeta Muñoz Borrego,47,male,1,1,Valencia,Español,r,2,0,91.27,0,1,1,0,0,160,95,1
+258,0,69.93,Lara Costa-Coello,42,female,1,0,Valencia,Venezolano,r,2,0,2.89,0,1,1,1,1,191,59,0
+259,0,96.71,Luna del Escolano,51,female,0,0,Madrid,Argentino,r,0,0,22.82,1,0,0,1,1,198,98,1
+260,1,31.33,Bienvenida Sarabia Mosquera,59,female,0,0,Sevilla,Venezolano,r,1,0,64.37,0,1,1,0,1,192,74,0
+261,0,65.03,Clemente Cortina Cantón,54,female,0,0,Sevilla,Español,r,1,0,52.75,0,0,0,1,1,167,94,1
+262,1,137.99,Encarnita Estévez Fuentes,65,female,0,1,Málaga,Argentino,r,0,0,22.74,0,1,1,0,1,180,73,0
+263,1,105.47,Herberto Gisbert Llamas,29,female,1,1,Sevilla,Mexicano,r,1,0,82.4,0,1,1,1,0,157,62,0
+264,1,77.27,Marc Malo-Ruiz,23,female,1,1,Valencia,Argentino,r,2,1,44.45,0,1,1,1,0,173,54,0
+265,1,144.2,Lucio Orozco,40,female,0,0,Sevilla,Mexicano,r,1,0,89.45,0,0,0,0,0,171,81,0
+266,0,76.86,Hortensia Estévez-Arregui,29,male,0,1,Barcelona,Argentino,r,1,1,79.39,0,1,1,0,1,171,86,0
+267,0,139.32,Zoraida Pont Melero,61,female,1,0,Barcelona,Mexicano,r,1,0,3.79,0,0,0,0,1,157,53,0
+268,1,75.47,Cayetana Ricart-Llano,64,female,0,1,Málaga,Venezolano,r,1,0,22.48,0,1,1,0,0,176,99,0
+269,1,29.27,Lara Bejarano Román,58,female,0,0,Sevilla,Mexicano,r,2,1,65.85,0,0,0,0,0,157,94,0
+270,0,15.68,Telmo del Calatayud,27,female,0,0,Barcelona,Español,r,2,0,9.03,0,0,0,0,0,175,54,0
+271,1,93.76,José María de Bello,34,female,0,0,Málaga,Venezolano,r,0,0,72.44,0,0,0,1,0,151,99,1
+272,1,77.5,Jenaro Girona Carballo,24,female,0,1,Barcelona,Español,r,2,0,15.53,0,1,1,0,0,165,89,0
+273,0,33.59,Amparo Fonseca Domingo,51,male,1,0,Málaga,Venezolano,r,1,0,32.97,0,0,0,0,1,153,77,1
+274,1,133.7,Hilario Tapia Carreras,45,male,1,0,Valencia,Español,r,1,0,86.82,0,1,1,1,0,199,92,0
+275,0,88.8,Silvia de Blanch,56,male,1,1,Sevilla,Colombiano,r,2,0,59.0,0,0,0,1,1,185,54,1
+276,0,31.87,Amor Paniagua-Gilabert,62,female,1,1,Barcelona,Español,r,1,0,76.2,0,1,1,0,0,173,61,1
+277,0,16.73,Verónica Tapia Gonzalo,58,male,1,0,Málaga,Venezolano,r,2,0,81.04,0,0,0,1,0,181,90,1
+278,1,118.6,Graciana Español Cerdá,47,male,1,1,Málaga,Argentino,r,2,0,90.59,0,0,0,1,1,153,77,0
+279,0,143.31,Maximiliano Bernal,61,male,0,1,Sevilla,Argentino,r,0,0,3.92,0,1,1,0,0,157,69,1
+280,1,37.27,Juan Carlos de Leon,51,female,0,1,Barcelona,Argentino,r,0,0,95.4,0,0,0,1,1,182,71,1
+281,0,125.97,Chus Medina Corbacho,40,female,0,0,Sevilla,Español,r,1,0,72.53,0,1,1,0,0,165,75,1
+282,0,86.5,Aroa Navarrete Enríquez,62,female,1,1,Madrid,Argentino,r,2,0,83.74,1,1,1,0,1,170,71,1
+283,0,126.41,Trini Alemán Sanabria,35,male,0,0,Málaga,Español,r,2,0,6.8,0,1,1,0,1,183,67,0
+284,0,98.77,Iris Huerta Duran,54,male,0,1,Madrid,Argentino,r,1,0,12.96,1,0,0,0,1,163,87,1
+285,1,100.54,Purificación del Bertrán,63,male,0,1,Valencia,Español,r,2,0,24.87,0,0,0,1,1,177,67,0
+286,1,77.05,Samuel Neira Torrens,31,female,0,0,Barcelona,Español,r,0,0,11.04,0,1,1,0,0,194,96,0
+287,0,133.11,Luciana Carmelita Villegas Neira,28,male,1,0,Barcelona,Argentino,r,2,0,95.01,0,1,1,1,1,173,51,0
+288,1,80.49,Valentín Asensio Muro,44,female,0,1,Sevilla,Argentino,r,1,0,92.88,0,0,0,0,0,166,77,1
+289,0,67.32,Carmelo del Alcázar,56,female,0,0,Málaga,Español,r,1,0,16.5,0,1,1,0,1,174,66,0
+290,0,147.86,Wilfredo Cerezo Alfonso,61,female,0,0,Barcelona,Argentino,r,2,0,26.07,0,0,0,1,1,197,95,0
+291,0,46.94,Amando Armas Borrego,62,male,1,0,Madrid,Venezolano,r,1,0,62.52,1,0,0,1,0,165,61,0
+292,1,108.51,Marita Ramona Gomis Pujol,30,female,0,1,Valencia,Español,r,0,0,37.97,0,1,1,1,1,151,91,0
+293,0,74.96,Reina de Corral,45,male,0,0,Málaga,Mexicano,r,2,0,49.23,0,0,0,0,1,179,72,0
+294,0,11.13,Pepito Barba Marcos,60,male,1,1,Valencia,Colombiano,r,0,0,25.82,0,0,0,1,1,173,67,1
+295,0,139.99,Ezequiel Marc Figueras Calatayud,61,female,1,1,Sevilla,Argentino,r,1,0,38.21,0,0,0,0,0,167,80,1
+296,0,147.36,Ruth del Adadia,21,male,0,0,Madrid,Mexicano,r,0,0,60.52,1,0,0,1,1,152,98,1
+297,1,102.71,Gisela de Fiol,57,female,0,0,Sevilla,Español,r,1,0,90.79,0,0,0,1,1,186,65,1
+298,0,17.97,Felipe Sosa Fábregas,18,male,1,1,Valencia,Venezolano,r,1,0,0.08,0,0,0,0,1,161,52,1
+299,0,113.5,Alejo Prat Piñol,56,female,0,0,Málaga,Venezolano,r,1,0,71.59,0,1,1,1,0,180,62,1
+300,1,140.01,África Nayara Perez Benavente,32,female,1,1,Madrid,Español,r,0,0,78.46,1,0,0,1,0,168,65,1
+301,0,68.96,Cecilia Nicolau-Sancho,48,female,0,0,Madrid,Español,r,1,0,76.94,1,1,1,0,1,159,69,0
+302,1,49.78,Mario Jurado Salamanca,51,male,1,1,Madrid,Venezolano,r,1,0,65.93,1,0,0,0,1,200,56,0
+303,0,89.99,Liliana de Arias,20,female,1,1,Sevilla,Mexicano,r,2,0,71.71,0,0,0,0,1,188,54,1
+304,0,113.63,Eufemia Gámez Arregui,22,female,0,0,Madrid,Venezolano,r,0,0,13.49,1,0,0,1,1,171,66,1
+305,1,43.8,Kike Francisco Vall Arévalo,35,male,0,1,Madrid,Colombiano,r,0,0,30.01,1,1,1,0,0,151,61,1
+306,1,40.92,Alma Valbuena Sacristán,24,male,0,0,Madrid,Argentino,r,0,0,7.6,1,0,0,0,0,169,82,0
+307,0,81.58,Gisela Alfonso Duque,24,male,1,1,Sevilla,Mexicano,r,0,0,28.15,0,0,0,1,1,199,92,0
+308,0,30.41,Máximo Vergara-Nadal,21,male,1,0,Málaga,Mexicano,r,2,0,20.26,0,0,0,1,1,154,83,0
+309,0,26.51,Reinaldo Adalberto Murcia Cerdá,62,male,0,0,Madrid,Mexicano,r,0,0,10.71,1,1,1,1,0,150,83,1
+310,0,44.73,Chuy Hernández Luz,37,female,1,1,Sevilla,Mexicano,r,1,0,93.14,0,1,1,1,0,181,98,0
+311,0,142.06,Esther Becerra Sainz,50,female,1,1,Valencia,Argentino,r,2,0,25.04,0,0,0,1,0,198,59,0
+312,1,127.73,Lourdes del Vigil,24,female,1,0,Sevilla,Argentino,r,2,0,52.74,0,0,0,0,1,181,65,1
+313,1,75.14,Jerónimo Mínguez Villalonga,60,female,1,1,Málaga,Español,r,2,1,95.84,0,0,0,0,1,182,94,1
+314,0,113.97,Urbano Serrano Bermudez,42,female,0,1,Barcelona,Español,r,1,0,99.88,0,0,0,1,1,180,63,0
+315,1,82.23,Marcos Llopis Losada,40,male,0,0,Málaga,Venezolano,r,0,0,3.6,0,1,1,0,1,189,86,0
+316,1,134.05,Fermín Romero,62,female,1,1,Barcelona,Venezolano,r,1,0,15.91,0,1,1,0,1,186,50,1
+317,1,27.64,Loreto Bartolomé Toro,22,female,0,1,Sevilla,Mexicano,r,1,0,21.22,0,0,0,1,1,160,56,0
+318,0,59.06,Gracia Hoyos,49,male,1,1,Sevilla,Español,r,0,0,62.68,0,0,0,0,1,164,80,0
+319,0,116.69,Diana del Pedrosa,64,male,0,1,Valencia,Argentino,r,0,0,55.66,0,0,0,1,0,161,67,0
+320,1,28.82,Ignacio Acevedo-Neira,44,female,1,1,Sevilla,Argentino,r,2,0,34.31,0,0,0,1,0,180,75,1
+321,1,115.7,Irene Marin Pavón,30,male,0,0,Málaga,Español,r,1,0,79.17,0,0,0,1,1,183,86,1
+322,1,148.94,Esther Chico Zamora,55,male,1,0,Barcelona,Colombiano,r,0,0,52.66,0,0,0,1,0,151,68,0
+323,0,121.23,Isabela Llano Becerra,49,male,1,0,Sevilla,Argentino,r,0,0,65.87,0,0,0,0,1,174,68,1
+324,0,147.89,Julia Maestre-Espada,51,female,0,1,Madrid,Venezolano,r,0,0,64.15,1,0,0,1,1,158,81,0
+325,0,96.15,Bienvenida Alonso-España,24,male,0,1,Málaga,Mexicano,r,1,0,7.42,0,1,1,0,0,191,91,0
+326,0,39.31,Francisco Perales,52,male,0,0,Málaga,Colombiano,r,2,0,24.93,0,0,0,0,1,157,94,1
+327,0,136.06,Morena Barrio Seco,25,female,0,1,Barcelona,Mexicano,r,0,0,50.62,0,0,0,1,1,156,85,0
+328,0,81.87,Ángel Maza Colom,61,male,1,1,Sevilla,Español,r,0,0,2.54,0,0,0,0,1,200,93,1
+329,1,25.0,Eduardo Francisco Seco Carbó,60,male,1,0,Sevilla,Colombiano,r,0,0,98.0,0,0,0,1,1,188,91,0
+330,0,55.56,Prudencio de Cuesta,27,male,1,0,Málaga,Venezolano,r,0,0,86.76,0,0,0,0,1,180,77,1
+331,1,97.89,Calixta Rivero-Piquer,22,female,0,1,Madrid,Mexicano,r,0,1,62.61,1,1,1,1,1,163,71,1
+332,1,118.92,Iván Armas Castrillo,49,female,0,1,Madrid,Español,r,0,0,5.82,1,0,0,0,0,154,87,0
+333,1,131.27,Tito Juliá Luján,57,male,1,1,Barcelona,Mexicano,r,0,1,47.64,0,1,1,1,1,189,59,0
+334,0,109.9,Andrea Gloria Bayo Bravo,23,male,0,1,Sevilla,Español,r,0,0,63.55,0,0,0,1,1,179,72,0
+335,0,76.57,Evaristo Iniesta-Mayo,21,male,1,1,Barcelona,Venezolano,r,2,0,16.63,0,0,0,0,1,190,72,0
+336,1,33.92,Máximo Becerra Barberá,64,female,0,0,Barcelona,Argentino,r,1,0,72.97,0,1,1,0,1,154,56,0
+337,1,106.06,Jeremías de Pavón,40,male,1,1,Madrid,Venezolano,r,1,0,53.17,1,1,1,1,1,189,99,0
+338,0,105.74,Graciana Bueno Jaume,53,female,1,0,Madrid,Colombiano,r,1,0,54.62,1,1,1,1,0,200,81,1
+339,0,79.78,Juan José Pepe Gonzalo Valero,45,male,1,1,Valencia,Venezolano,r,0,0,5.14,0,1,1,1,0,171,53,0
+340,1,124.74,Fátima Sancho Doménech,31,male,1,1,Barcelona,Colombiano,r,2,0,15.87,0,0,0,0,1,185,72,1
+341,1,61.64,Severino Palomo Montalbán,39,female,0,0,Barcelona,Mexicano,r,2,0,92.12,0,1,1,0,0,186,100,1
+342,1,68.53,Reyes María Cristina Duque Boada,40,male,1,0,Valencia,Español,r,0,0,12.25,0,1,1,1,0,191,74,0
+343,0,121.63,Nadia Guardia Cuervo,22,female,1,1,Madrid,Argentino,r,0,0,50.54,1,0,0,1,1,171,100,1
+344,0,69.66,Amparo Amores-Bárcena,33,male,0,0,Málaga,Argentino,r,1,0,72.78,0,1,1,0,1,168,92,0
+345,1,50.33,Amada Roselló Egea,54,male,0,1,Sevilla,Colombiano,r,0,0,47.8,0,0,0,1,1,174,99,0
+346,1,13.42,Rubén Adolfo Ferrera Portillo,23,female,0,0,Valencia,Argentino,r,2,0,28.71,0,0,0,0,0,169,70,1
+347,1,149.24,Cristóbal Aguilera,32,male,1,1,Sevilla,Venezolano,r,0,1,5.62,0,1,1,0,1,187,86,0
+348,0,62.4,Chema Peñalver Dalmau,33,female,1,0,Barcelona,Español,r,0,0,98.91,0,0,0,0,0,152,53,1
+349,1,16.82,Miguel Ángel de Palmer,42,male,0,1,Madrid,Mexicano,r,0,1,22.37,1,0,0,1,0,177,71,0
+350,1,135.79,Valentina Adadia-Cid,44,male,1,1,Madrid,Venezolano,r,2,0,61.42,1,0,0,1,1,197,90,1
+351,0,59.5,Verónica Cabañas,55,male,1,1,Sevilla,Colombiano,r,0,0,80.88,0,1,1,0,1,154,51,1
+352,0,24.32,Nayara Gilabert Mayoral,24,male,0,0,Sevilla,Argentino,r,0,1,20.85,0,1,1,0,0,179,94,0
+353,0,89.55,Ibán Neira Clavero,19,male,1,0,Sevilla,Colombiano,r,0,0,75.0,0,1,1,0,0,151,93,0
+354,0,92.3,Fausto Castañeda Azorin,24,male,1,1,Valencia,Español,r,0,0,30.23,0,1,1,0,1,184,64,0
+355,1,139.97,Celestino Pombo Valle,20,male,0,0,Sevilla,Español,r,2,0,71.68,0,0,0,0,0,157,88,1
+356,1,21.37,Elba Garay Serrano,22,male,0,0,Valencia,Venezolano,r,2,1,86.02,0,1,1,0,0,155,65,0
+357,1,136.91,Benjamín del Vilanova,33,male,0,1,Valencia,Venezolano,r,2,0,24.86,0,1,1,1,1,185,92,1
+358,0,24.41,Rosario Garrido Amigó,41,female,0,0,Barcelona,Argentino,r,2,0,87.3,0,1,1,1,1,185,74,1
+359,1,69.14,Ibán Rico Manso,46,male,1,0,Sevilla,Colombiano,r,1,0,7.65,0,0,0,0,0,150,89,1
+360,0,99.39,Luisina de Múgica,33,male,1,1,Madrid,Argentino,r,1,0,78.24,1,1,1,0,0,176,89,0
+361,0,79.73,Ceferino Plana-Carrillo,46,male,0,1,Sevilla,Argentino,r,2,1,97.18,0,0,0,0,1,176,76,1
+362,1,82.92,Narcisa Corbacho Pérez,25,female,0,0,Madrid,Mexicano,r,0,0,81.31,1,0,0,0,1,191,75,1
+363,1,108.89,Fermín Villanueva Roldán,36,male,1,1,Sevilla,Colombiano,r,2,0,94.8,0,0,0,1,1,171,73,1
+364,0,90.57,Carmelo Piña Ferrera,62,male,0,1,Madrid,Mexicano,r,2,0,37.9,1,1,1,1,0,197,64,0
+365,1,105.17,Leticia Gutierrez Mesa,42,female,0,0,Barcelona,Venezolano,r,2,0,75.28,0,0,0,0,1,161,98,0
+366,1,111.82,Zacarías Puig Nicolás,40,female,1,1,Sevilla,Mexicano,r,0,0,26.47,0,0,0,0,1,187,67,1
+367,0,17.63,Adoración Aurelia Andres Hervás,38,female,1,1,Madrid,Colombiano,r,0,0,85.22,1,0,0,1,1,191,59,0
+368,0,124.36,Luciano Villena Estevez,39,male,0,0,Sevilla,Mexicano,r,2,1,10.51,0,1,1,1,0,188,70,1
+369,0,81.83,Aureliano Santamaría Meléndez,41,male,1,0,Madrid,Argentino,r,1,0,3.91,1,1,1,0,0,161,69,1
+370,1,126.18,Candelario Amor Ugarte Huertas,47,female,1,1,Valencia,Argentino,r,2,0,66.56,0,1,1,1,0,172,79,0
+371,0,93.12,Tania Segarra-Crespi,20,male,0,0,Málaga,Argentino,r,1,1,77.06,0,0,0,1,0,170,68,1
+372,0,145.7,Aureliano de Cano,22,female,0,0,Málaga,Mexicano,r,2,0,64.82,0,0,0,1,0,172,57,0
+373,1,63.49,Jose Francisco Fonseca Pineda,27,female,0,1,Sevilla,Venezolano,r,2,0,12.72,0,0,0,0,0,173,98,0
+374,1,143.87,Guiomar Soria Agudo,22,male,1,1,Sevilla,Argentino,r,2,0,73.52,0,0,0,0,1,189,90,0
+375,1,111.31,Tecla Cuervo,42,male,1,0,Valencia,Colombiano,r,0,0,23.71,0,1,1,0,0,200,56,0
+376,0,65.66,Baltasar Sanjuan Lobato,32,male,0,1,Valencia,Español,r,0,0,61.3,0,1,1,1,1,152,64,1
+377,0,41.59,Zacarías Ayuso,47,male,0,0,Madrid,Mexicano,r,0,0,53.65,1,0,0,1,0,177,77,0
+378,1,19.91,Camila Linares León,63,male,1,0,Málaga,Venezolano,r,1,0,94.03,0,0,0,0,1,172,90,0
+379,0,103.14,Eli Bayo,30,male,1,1,Sevilla,Argentino,r,2,0,90.12,0,1,1,0,1,156,91,0
+380,0,135.37,Inmaculada Pujadas Verdú,28,male,0,0,Barcelona,Colombiano,r,2,0,39.27,0,0,0,1,0,184,54,0
+381,1,47.21,Ruperta Pallarès,65,male,1,0,Málaga,Argentino,r,2,0,92.5,0,1,1,1,1,157,81,0
+382,1,147.51,Soraya Canet Azorin,26,male,1,0,Málaga,Venezolano,r,1,1,59.3,0,0,0,1,0,168,52,0
+383,0,101.78,Inés Vicens Soler,61,male,0,1,Valencia,Español,r,2,0,5.51,0,0,0,1,0,151,67,0
+384,0,114.08,Juan Pablo Galindo Estevez,34,female,1,1,Barcelona,Venezolano,r,2,0,25.84,0,1,1,0,1,151,93,0
+385,0,52.75,María Pilar Micaela Vallejo Fernández,64,male,1,1,Málaga,Colombiano,r,1,0,80.41,0,0,0,1,0,179,63,0
+386,1,36.38,Susana de Montero,23,male,0,0,Barcelona,Español,r,2,0,71.01,0,0,0,1,0,155,50,0
+387,0,148.52,Jesús Cruz Mendez Jara,24,male,1,0,Madrid,Colombiano,r,0,0,60.91,1,0,0,1,1,185,75,0
+388,0,125.69,Eladio Salinas Redondo,20,male,0,1,Valencia,Venezolano,r,1,0,91.27,0,1,1,0,1,165,59,0
+389,0,137.97,Calixto del Ojeda,49,male,1,0,Madrid,Colombiano,r,0,0,87.08,1,1,1,1,0,175,71,1
+390,0,92.35,José María Danilo Gimenez Oller,60,male,0,0,Sevilla,Argentino,r,1,0,16.36,0,0,0,1,1,180,93,0
+391,1,135.03,Isidoro Ciríaco Chamorro Quesada,41,female,1,0,Valencia,Argentino,r,1,1,9.88,0,1,1,1,0,196,100,1
+392,0,34.25,Francisco de Cobo,63,female,0,0,Sevilla,Mexicano,r,2,0,93.11,0,1,1,0,0,164,58,0
+393,1,79.71,Eufemia Barrena Cabo,41,female,0,1,Málaga,Mexicano,r,2,0,33.41,0,0,0,0,0,159,88,1
+394,0,19.11,Félix Edu Campoy Ortuño,33,female,0,1,Málaga,Mexicano,r,2,1,99.58,0,0,0,1,0,198,54,1
+395,1,27.42,Lázaro Gelabert España,40,female,1,1,Sevilla,Mexicano,r,2,0,97.26,0,0,0,0,1,180,83,1
+396,0,136.23,Morena Bustamante,61,male,1,0,Barcelona,Argentino,r,2,1,21.07,0,1,1,0,1,170,97,0
+397,1,112.06,Remigio Nogués Romero,58,male,1,1,Barcelona,Español,r,2,0,53.58,0,1,1,0,0,183,73,1
+398,1,98.61,Esmeralda Segura Bejarano,38,female,0,0,Valencia,Español,r,1,0,2.38,0,0,0,1,1,191,95,0
+399,0,92.74,Luz de Porta,47,female,0,1,Sevilla,Español,r,1,0,95.36,0,1,1,0,0,189,56,0
+400,0,87.68,Remigio Fuentes Álvarez,19,female,1,0,Madrid,Colombiano,r,0,1,45.08,1,1,1,0,1,177,50,1
+401,1,144.35,Macario Aliaga Mateu,31,male,0,0,Málaga,Colombiano,r,1,0,96.91,0,0,0,1,1,155,78,1
+402,1,73.44,Rodrigo Erasmo Benavides Arregui,65,male,0,1,Madrid,Argentino,r,0,0,25.79,1,1,1,1,1,180,99,1
+403,0,26.33,Jonatan Puga Conesa,50,female,1,1,Madrid,Argentino,r,1,0,80.62,1,0,0,0,1,194,61,1
+404,0,19.59,María Dolores Julián,59,female,0,1,Madrid,Español,r,0,0,96.76,1,1,1,1,0,195,90,0
+405,1,71.26,Carlota Zorrilla Barrio,24,male,1,1,Sevilla,Argentino,r,2,0,70.39,0,1,1,1,0,157,75,0
+406,1,36.99,Lourdes Olmo Lobo,27,female,1,0,Sevilla,Venezolano,r,1,0,64.05,0,1,1,1,0,169,81,0
+407,1,54.49,Encarnación Ariel Salvà Bustamante,18,male,1,1,Sevilla,Venezolano,r,1,0,2.37,0,0,0,0,1,151,90,1
+408,0,100.36,Aura Aroca Elías,40,female,1,0,Málaga,Colombiano,r,2,0,54.47,0,1,1,1,1,156,86,0
+409,1,124.47,María Luisa Parra-Ibáñez,31,male,0,1,Sevilla,Venezolano,r,2,1,69.34,0,0,0,0,1,178,76,1
+410,1,39.8,Marcos Real Iniesta,32,female,1,0,Sevilla,Argentino,r,0,1,20.59,0,1,1,0,1,188,67,0
+411,1,125.9,Claudio Cortina Borrego,37,female,1,1,Valencia,Venezolano,r,0,0,22.89,0,1,1,1,1,171,69,1
+412,0,69.22,Trinidad Recio Cuadrado,23,female,0,0,Málaga,Colombiano,r,0,0,42.59,0,0,0,1,0,161,91,0
+413,1,97.24,Jacobo del Rosa,52,male,0,0,Madrid,Español,r,2,0,88.01,1,1,1,0,0,161,82,1
+414,1,108.81,Teodora Mateo Canet,28,female,0,0,Valencia,Colombiano,r,2,0,72.82,0,1,1,1,0,190,75,1
+415,0,129.47,Vera Perea Barrios,62,male,0,1,Barcelona,Venezolano,r,1,0,45.75,0,0,0,0,0,159,67,0
+416,1,88.53,Calisto del Lillo,55,male,1,1,Madrid,Venezolano,r,2,0,48.87,1,1,1,0,1,190,60,1
+417,1,46.96,Miguel Ángel Ródenas Palacios,55,female,1,1,Barcelona,Venezolano,r,2,0,82.03,0,0,0,0,0,196,91,0
+418,1,22.29,Lucho Yuste-Nieto,26,female,1,0,Madrid,Mexicano,r,2,0,10.53,1,1,1,1,1,155,51,1
+419,0,35.67,Leocadio Dueñas Álamo,53,male,1,0,Málaga,Argentino,r,0,1,34.87,0,1,1,1,0,169,73,0
+420,0,16.7,Albert Edgardo Molins Carvajal,30,male,1,0,Barcelona,Argentino,r,1,0,91.15,0,0,0,1,0,162,67,1
+421,0,141.52,Édgar José Lopez Mariño,46,female,1,0,Madrid,Mexicano,r,0,0,29.5,1,0,0,1,1,168,77,1
+422,0,75.61,Noemí Caparrós Cadenas,38,male,1,0,Sevilla,Argentino,r,0,0,62.4,0,1,1,0,0,185,98,0
+423,0,22.04,Bernardino Jurado-Baquero,32,male,1,0,Barcelona,Español,r,1,0,50.47,0,0,0,0,0,150,83,0
+424,1,62.56,Jose del Alcázar,45,female,0,1,Madrid,Mexicano,r,0,1,57.42,1,0,0,0,1,166,54,0
+425,0,86.25,Brígida Zorrilla Ribas,60,female,0,0,Barcelona,Argentino,r,1,1,21.28,0,1,1,0,1,152,51,0
+426,0,142.58,Ester Villaverde,27,female,1,0,Barcelona,Argentino,r,1,0,87.24,0,0,0,0,0,164,77,1
+427,0,85.54,Eutimio Cárdenas Huerta,53,male,0,1,Barcelona,Español,r,2,0,68.23,0,1,1,1,0,185,52,1
+428,1,58.67,Eutimio Peña Jara,52,female,1,0,Barcelona,Colombiano,r,1,0,47.36,0,1,1,0,1,189,82,1
+429,1,77.53,Octavio Berenguer Soria,23,male,1,0,Valencia,Mexicano,r,1,0,6.49,0,1,1,1,1,167,94,1
+430,1,120.3,Marino de Barroso,47,male,1,0,Sevilla,Mexicano,r,0,0,3.07,0,0,0,1,1,184,67,1
+431,0,117.15,Isabela de Hierro,63,female,0,0,Madrid,Español,r,0,0,22.78,1,0,0,1,0,152,56,1
+432,0,44.19,Natanael Rojas Iñiguez,27,female,1,0,Madrid,Mexicano,r,2,0,15.23,1,0,0,0,1,192,57,1
+433,0,124.91,Eutimio Adelardo Angulo Madrigal,61,female,1,0,Sevilla,Mexicano,r,2,0,28.89,0,0,0,0,1,195,82,1
+434,1,140.0,Olivia Ricart Miguel,48,male,1,0,Madrid,Argentino,r,0,1,73.23,1,0,0,0,0,170,79,1
+435,1,113.28,Simón Eustaquio Rosales Montserrat,62,female,0,1,Valencia,Mexicano,r,2,0,15.65,0,1,1,0,0,156,66,1
+436,1,50.13,Florinda del Garcés,33,female,1,0,Valencia,Argentino,r,0,0,20.82,0,1,1,0,0,163,64,0
+437,0,14.41,Teresa Vila,63,female,1,1,Barcelona,Argentino,r,2,0,1.04,0,0,0,1,0,161,61,0
+438,1,10.31,Etelvina Sanchez Prat,22,female,1,1,Barcelona,Español,r,0,1,93.05,0,0,0,1,1,182,72,1
+439,0,144.08,Samu Luque-Guardia,56,male,1,0,Madrid,Español,r,2,0,31.31,1,0,0,1,1,157,57,1
+440,1,27.53,Modesta Ordóñez Cuesta,35,female,1,1,Valencia,Mexicano,r,1,0,81.87,0,0,0,0,0,160,80,0
+441,0,120.73,Luis Pedrosa Arrieta,37,female,0,0,Madrid,Argentino,r,1,0,40.93,1,0,0,1,1,196,96,1
+442,0,65.38,Rosalina Pina Ríos,61,male,1,1,Barcelona,Colombiano,r,2,0,6.58,0,0,0,0,0,191,84,0
+443,0,65.1,Mohamed Guitart Moll,33,female,0,0,Barcelona,Colombiano,r,1,0,31.64,0,1,1,0,0,200,51,0
+444,1,139.73,Ana Montalbán Hervás,38,female,1,0,Madrid,Venezolano,r,0,0,25.68,1,0,0,1,0,182,90,0
+445,1,14.65,Baldomero Pinto,46,female,1,1,Málaga,Argentino,r,0,0,34.98,0,0,0,1,1,197,85,0
+446,0,36.38,Priscila Bolaños Quintana,54,female,0,1,Valencia,Argentino,r,1,0,16.75,0,1,1,0,1,176,62,1
+447,1,66.0,Julie Jáuregui Benet,23,female,0,1,Madrid,Venezolano,r,1,1,11.38,1,1,1,0,0,174,95,1
+448,1,136.12,Álvaro Maza Poza,25,male,0,1,Madrid,Mexicano,r,1,0,44.91,1,1,1,1,1,166,53,1
+449,1,113.72,Carlito Báez Gimeno,55,female,0,0,Madrid,Argentino,r,0,0,86.7,1,0,0,1,1,164,76,0
+450,1,88.72,Marisol Escobar,20,female,0,0,Sevilla,Argentino,r,0,1,85.28,0,0,0,1,1,180,62,0
+451,1,123.83,Claudio Blasco Cortés,27,female,1,1,Málaga,Argentino,r,0,0,1.66,0,1,1,0,1,167,58,1
+452,1,88.82,Óscar Manjón-Puga,24,male,0,0,Sevilla,Mexicano,r,1,0,27.35,0,0,0,1,0,168,99,0
+453,1,63.67,Claudia Coloma Puga,56,female,1,1,Valencia,Español,r,1,0,96.74,0,0,0,1,0,177,86,0
+454,0,74.2,Ricarda Plana Torrens,24,male,0,1,Madrid,Colombiano,r,1,0,61.49,1,1,1,1,0,196,89,0
+455,1,66.65,Purificación Rincón Castro,22,male,0,0,Sevilla,Mexicano,r,2,0,80.76,0,1,1,1,0,192,64,1
+456,0,98.07,Godofredo Macías,65,female,1,0,Barcelona,Mexicano,r,1,0,72.93,0,1,1,1,1,197,65,0
+457,0,133.05,Teodosio Lobo Peiró,25,male,0,1,Barcelona,Venezolano,r,0,0,9.29,0,1,1,1,0,190,59,1
+458,1,76.06,Ofelia Alcázar Bellido,44,male,0,0,Madrid,Español,r,2,0,88.29,1,1,1,1,1,182,100,0
+459,0,104.25,Flor Isa Reyes Ibarra,63,female,1,0,Barcelona,Colombiano,r,1,0,87.39,0,0,0,1,0,194,96,0
+460,1,20.24,Amaro Manolo Campillo Campillo,54,male,0,0,Barcelona,Español,r,1,0,9.15,0,1,1,0,0,169,79,1
+461,0,65.81,Norberto Juan Bautista Linares Santiago,54,male,0,0,Valencia,Español,r,1,0,49.77,0,0,0,0,0,186,69,1
+462,0,147.69,Eustaquio Company-Villanueva,31,female,0,1,Valencia,Colombiano,r,2,0,79.35,0,1,1,1,0,200,58,0
+463,1,133.55,Teo del Rosado,23,male,1,1,Valencia,Español,r,1,1,47.02,0,0,0,1,0,189,59,0
+464,0,27.43,Victoria Sevillano-Girón,61,male,1,0,Málaga,Venezolano,r,0,1,79.02,0,0,0,1,1,177,72,1
+465,1,135.27,Duilio Villaverde,48,male,1,1,Valencia,Argentino,r,0,0,85.19,0,1,1,0,1,193,58,1
+466,0,116.56,Francisca Sola Vargas,32,male,0,1,Málaga,Venezolano,r,0,0,48.11,0,1,1,1,0,197,85,1
+467,0,95.15,Graciano Rosado Sotelo,40,male,1,0,Valencia,Argentino,r,0,0,55.62,0,1,1,1,1,166,79,1
+468,0,89.22,Verónica Conde,32,female,1,0,Madrid,Colombiano,r,1,0,69.05,1,0,0,1,0,156,94,0
+469,1,10.49,Gervasio Calvo Marquez,62,female,0,1,Madrid,Colombiano,r,2,0,92.51,1,0,0,0,1,150,67,0
+470,0,53.5,Ismael Sebastian Barral Ballesteros,64,male,0,0,Barcelona,Argentino,r,0,0,84.89,0,1,1,1,0,197,98,1
+471,1,82.07,Matilde de Palomo,61,female,1,0,Sevilla,Argentino,r,1,0,35.93,0,0,0,1,1,177,75,0
+472,1,96.94,Chita Escamilla Reyes,60,male,0,1,Sevilla,Mexicano,r,1,0,3.5,0,1,1,0,1,200,96,1
+473,0,61.73,Reina Julián,46,male,0,1,Sevilla,Argentino,r,1,0,40.04,0,1,1,0,0,185,59,0
+474,0,91.67,Leocadia Arévalo,57,female,1,1,Málaga,Español,r,2,0,79.07,0,1,1,1,0,191,69,1
+475,1,95.4,Trinidad Duque Piñeiro,25,female,0,0,Málaga,Colombiano,r,0,0,17.14,0,0,0,1,1,194,73,0
+476,1,91.06,María Aliaga Paniagua,64,female,1,1,Málaga,Argentino,r,0,0,7.28,0,0,0,0,1,169,69,1
+477,0,135.17,Eugenia Morante Arjona,55,male,0,1,Madrid,Mexicano,r,2,0,5.59,1,0,0,0,1,182,88,1
+478,0,62.44,Cecilia Blazquez-Garcés,55,male,1,0,Sevilla,Mexicano,r,1,0,43.36,0,0,0,1,1,164,72,1
+479,1,37.16,Carmelo Simó,26,female,0,1,Valencia,Mexicano,r,0,0,80.72,0,0,0,0,1,170,88,1
+480,1,95.65,Arcelia Vendrell,18,female,1,0,Barcelona,Colombiano,r,0,0,1.85,0,0,0,1,0,165,97,1
+481,1,53.16,Eloy Palomares,37,female,0,0,Sevilla,Venezolano,r,2,0,46.18,0,0,0,1,0,168,100,1
+482,0,105.64,Lisandro Ángel Girona,23,female,0,1,Barcelona,Venezolano,r,0,0,52.51,0,0,0,1,1,159,99,1
+483,0,90.35,Jessica Feliciana Adán Borja,35,male,0,1,Valencia,Español,r,2,1,24.09,0,1,1,0,1,182,70,1
+484,0,137.68,Jorge Alberdi Figueras,27,female,0,1,Madrid,Venezolano,r,0,1,96.25,1,0,0,1,0,156,99,0
+485,0,93.02,Laura Baeza Jerez,50,female,0,1,Madrid,Argentino,r,2,0,50.68,1,0,0,0,1,151,60,0
+486,1,120.55,Purificación Cerdán,50,male,0,0,Valencia,Colombiano,r,2,0,66.22,0,0,0,1,0,188,80,0
+487,0,81.97,Nilo Barón-Castañeda,37,male,1,1,Barcelona,Colombiano,r,1,0,32.99,0,0,0,0,0,187,86,0
+488,1,134.84,Rafael Montes Vilar,30,male,1,1,Valencia,Colombiano,r,2,0,28.38,0,0,0,0,1,193,73,0
+489,0,108.85,Marina Serra Fuentes,33,female,0,1,Madrid,Colombiano,r,2,1,99.87,1,1,1,0,0,187,55,0
+490,1,89.04,Maristela Estevez-Granados,38,female,0,0,Málaga,Venezolano,r,1,0,46.49,0,0,0,1,1,171,98,1
+491,0,141.04,Luz Canet Valverde,57,female,1,0,Madrid,Venezolano,r,0,0,40.41,1,0,0,0,0,171,51,1
+492,1,132.57,Lupita Pereira Coll,51,male,0,0,Valencia,Colombiano,r,0,0,18.44,0,0,0,1,1,182,73,1
+493,1,111.75,Claudio Zurita Rosell,46,male,0,0,Valencia,Mexicano,r,0,0,71.46,0,1,1,1,0,151,86,1
+494,1,148.95,Narcisa Carretero Briones,28,female,1,0,Málaga,Colombiano,r,0,0,73.5,0,0,0,1,0,159,83,1
+495,1,119.66,Pastor Vicente Alarcón Carbonell,50,female,0,0,Barcelona,Colombiano,r,0,0,59.66,0,1,1,0,0,161,84,0
+496,0,136.58,Merche Castellanos Guzman,60,male,1,0,Valencia,Argentino,r,1,0,21.99,0,0,0,1,1,195,73,1
+497,1,51.14,Gervasio Mariscal Lledó,22,female,0,0,Valencia,Venezolano,r,2,0,14.66,0,0,0,1,0,199,56,1
+498,0,57.72,Adora Adadia Sureda,49,female,1,0,Sevilla,Colombiano,r,2,0,78.37,0,0,0,0,0,176,94,1
+499,0,12.27,Luisa Carreras Pineda,35,female,1,0,Sevilla,Mexicano,r,0,0,58.79,0,0,0,1,0,165,51,1
+500,1,64.27,Cornelio del Miralles,25,male,1,1,Sevilla,Colombiano,r,2,1,43.45,0,0,0,1,0,158,64,1
+501,1,71.81,Samu Ferrero Méndez,44,female,1,0,Málaga,Español,r,1,0,69.87,0,1,1,1,0,165,79,1
+502,0,58.67,Encarnación Ibáñez Maza,18,female,0,0,Sevilla,Argentino,r,2,0,80.71,0,0,0,0,1,161,69,0
+503,0,118.48,María José Aurora Goñi Pons,34,female,0,1,Sevilla,Venezolano,r,1,1,83.97,0,0,0,0,1,194,78,1
+504,0,62.44,Amaro de Fonseca,55,female,1,0,Barcelona,Argentino,r,2,1,28.34,0,1,1,1,1,182,87,0
+505,0,111.3,Isabela Benítez Miró,38,female,1,1,Valencia,Español,r,2,0,27.81,0,1,1,0,0,152,94,1
+506,0,136.61,Ana Sofía del Pomares,34,female,0,0,Madrid,Venezolano,r,0,0,6.08,1,0,0,0,0,181,92,0
+507,0,116.3,Marcial Rivero-Lobo,22,male,1,1,Barcelona,Mexicano,r,0,0,20.34,0,0,0,0,1,152,56,1
+508,0,34.81,Aníbal Fuente Perelló,38,female,0,0,Valencia,Colombiano,r,2,0,46.47,0,1,1,1,0,185,82,1
+509,0,100.0,Nerea del Cantero,56,female,1,1,Málaga,Colombiano,r,2,0,64.11,0,0,0,0,0,156,89,0
+510,0,22.5,Juan Francisco Ocaña Angulo,62,male,0,0,Valencia,Argentino,r,2,0,88.43,0,1,1,0,1,179,72,1
+511,1,55.04,Andrea Beltran Donoso,44,male,0,1,Málaga,Venezolano,r,2,0,91.52,0,1,1,1,1,168,81,1
+512,0,61.86,Inés Galán Pascual,47,female,0,0,Barcelona,Mexicano,r,1,1,94.97,0,1,1,0,1,185,89,0
+513,0,136.83,Gil Benito-Agullo,20,male,1,1,Madrid,Colombiano,r,2,0,26.52,1,0,0,1,1,187,100,1
+514,1,49.35,Esteban Benavent-Ramis,30,male,0,1,Madrid,Venezolano,r,2,0,33.3,1,1,1,0,0,196,68,1
+515,0,17.12,Soledad Ávila Losada,45,female,1,0,Madrid,Mexicano,r,1,1,53.21,1,0,0,0,0,191,67,1
+516,0,48.71,Fulgencio Pastor Muñoz,49,female,0,0,Madrid,Argentino,r,2,1,81.45,1,1,1,1,0,178,68,1
+517,0,70.24,Anunciación Taboada Paredes,50,male,1,1,Madrid,Español,r,0,0,65.49,1,0,0,1,1,195,60,0
+518,0,45.01,Lucas Agustí,58,male,1,0,Barcelona,Mexicano,r,2,0,62.67,0,0,0,0,1,159,62,0
+519,1,105.33,Fabiana Muro Cabrera,64,female,1,0,Valencia,Colombiano,r,0,0,64.63,0,0,0,0,0,150,96,0
+520,1,33.0,Odalys Chico,62,male,1,0,Barcelona,Mexicano,r,2,0,49.05,0,1,1,1,1,163,81,0
+521,0,147.12,Azucena Paz Varela,33,female,0,0,Madrid,Venezolano,r,1,0,83.09,1,0,0,0,0,161,99,1
+522,0,94.79,Ruth Luna Pinedo Barreda,50,male,1,1,Sevilla,Colombiano,r,1,0,74.39,0,1,1,1,0,180,61,1
+523,0,30.11,Julio César Cid,55,male,1,0,Barcelona,Venezolano,r,0,0,81.77,0,0,0,1,1,171,66,0
+524,0,143.7,Vanesa Molina Arévalo,60,female,1,1,Málaga,Mexicano,r,0,0,40.1,0,0,0,1,1,191,92,1
+525,1,59.55,Isaac Morán,65,male,0,0,Madrid,Venezolano,r,2,0,76.4,1,0,0,0,1,198,79,1
+526,0,66.76,Chelo Guijarro-Rocha,18,female,0,1,Barcelona,Colombiano,r,2,0,27.81,0,0,0,1,1,164,78,1
+527,1,42.95,Joaquina Cañas Vallejo,50,female,1,0,Sevilla,Venezolano,r,2,1,91.88,0,0,0,0,0,154,93,1
+528,0,143.65,Cándido Córdoba Manzanares,26,male,0,1,Sevilla,Español,r,1,0,53.8,0,0,0,1,0,196,78,1
+529,0,108.1,Nacio Marcio Rivas Roda,61,female,1,1,Málaga,Mexicano,r,0,0,49.01,0,0,0,0,0,191,79,0
+530,0,121.6,Morena Zorrilla Peral,36,male,1,1,Madrid,Mexicano,r,1,0,40.9,1,0,0,0,0,154,67,1
+531,1,24.24,Efraín Arribas Ramis,56,female,1,0,Sevilla,Colombiano,r,2,0,61.64,0,0,0,1,1,196,83,1
+532,0,93.4,Aureliano Jose Ignacio Andres Font,60,female,0,0,Madrid,Mexicano,r,1,0,64.58,1,1,1,1,1,184,88,0
+533,0,114.13,Hugo Puig Soto,34,male,0,0,Sevilla,Venezolano,r,0,0,72.95,0,1,1,0,0,198,96,1
+534,1,51.78,Mario del Gimeno,65,male,0,1,Valencia,Colombiano,r,1,0,22.79,0,1,1,0,1,156,50,1
+535,1,140.23,Porfirio Palacios,41,female,0,0,Málaga,Español,r,2,1,27.17,0,0,0,1,0,159,92,0
+536,0,143.04,Édgar Milla Amigó,31,male,0,1,Madrid,Venezolano,r,1,0,46.54,1,1,1,1,0,153,72,1
+537,1,148.48,Lilia Salom Meléndez,57,male,0,0,Málaga,Colombiano,r,1,0,78.08,0,1,1,1,0,155,91,1
+538,0,108.52,Régulo Ramírez,27,female,1,0,Barcelona,Argentino,r,1,0,77.09,0,1,1,0,1,166,69,0
+539,1,59.12,Amor Candelaria Iñiguez Barragán,30,female,0,0,Barcelona,Argentino,r,1,0,43.04,0,0,0,1,1,198,88,1
+540,0,124.28,Lisandro Josué Abellán Cañete,56,male,0,1,Madrid,Español,r,2,0,25.07,1,0,0,1,0,179,62,0
+541,0,99.51,Diego Pánfilo Guijarro Arévalo,35,male,1,0,Valencia,Venezolano,r,2,0,85.99,0,0,0,1,0,173,94,1
+542,0,78.23,Carmina Vidal Meléndez,57,female,1,1,Valencia,Español,r,1,0,8.18,0,0,0,0,0,153,76,1
+543,0,108.25,Vanesa del Mínguez,29,male,1,0,Valencia,Colombiano,r,2,0,34.2,0,1,1,0,0,165,97,0
+544,1,91.65,Eleuterio Pallarès-Figueroa,50,female,1,1,Barcelona,Español,r,1,0,36.58,0,1,1,0,0,151,77,0
+545,0,117.79,Aurelia Anita Gibert Urrutia,21,female,0,1,Málaga,Español,r,0,0,29.98,0,0,0,0,0,193,57,0
+546,1,10.14,Gaspar Lucena Donoso,40,female,1,1,Madrid,Mexicano,r,0,0,80.73,1,1,1,1,1,174,77,1
+547,0,55.02,Jordana Luís-Mendez,37,male,1,0,Barcelona,Argentino,r,0,0,9.66,0,0,0,0,0,188,90,0
+548,0,69.33,Aarón Osuna Monreal,31,female,0,0,Sevilla,Venezolano,r,2,0,25.76,0,1,1,0,0,183,81,1
+549,0,104.48,Alonso Paredes Jordá,50,female,1,1,Valencia,Venezolano,r,1,0,2.37,0,1,1,0,1,177,70,0
+550,1,64.34,Elisabet Grande Vicente,64,female,1,1,Barcelona,Mexicano,r,0,1,91.19,0,1,1,1,0,183,54,0
+551,0,55.74,Julio Márquez Alcalá,34,female,0,1,Valencia,Colombiano,r,0,0,95.5,0,0,0,1,0,175,94,1
+552,1,53.4,Melisa del Lledó,53,male,1,1,Barcelona,Colombiano,r,0,0,97.42,0,0,0,0,0,195,73,0
+553,1,145.37,Julio Gascón Osorio,57,male,1,0,Málaga,Español,r,0,0,2.7,0,1,1,1,0,182,91,1
+554,0,28.63,Sarita Salom-Castro,18,male,0,1,Valencia,Mexicano,r,2,0,87.04,0,0,0,0,0,191,51,1
+555,1,111.97,Palmira Saez Cid,32,male,0,1,Sevilla,Español,r,2,0,2.98,0,1,1,1,0,161,60,1
+556,0,96.32,Nerea Tolosa-Murillo,24,female,1,0,Barcelona,Argentino,r,1,1,19.76,0,0,0,1,0,173,61,1
+557,1,48.52,Armando Heliodoro Barberá Solé,49,female,0,1,Valencia,Colombiano,r,0,1,87.84,0,0,0,0,0,163,72,0
+558,0,136.15,Reynaldo Cordero Jaume,18,male,1,0,Sevilla,Español,r,0,0,48.92,0,0,0,1,1,154,83,1
+559,1,132.73,Juan Carlos Egea Villalba,57,female,1,0,Málaga,Mexicano,r,0,0,36.04,0,1,1,0,1,183,66,0
+560,1,145.41,Fortunata de Aller,19,male,1,1,Barcelona,Colombiano,r,0,0,49.54,0,0,0,0,1,189,86,1
+561,0,49.47,Rufina Falcón Costa,61,female,0,0,Valencia,Mexicano,r,1,0,60.16,0,0,0,1,1,150,70,0
+562,1,81.94,Hector Benitez Guillen,31,female,0,0,Sevilla,Colombiano,r,0,1,7.35,0,1,1,1,1,167,75,1
+563,1,14.02,Ignacia Guillén-Belda,42,female,1,0,Valencia,Español,r,2,0,75.47,0,0,0,0,0,151,90,1
+564,0,33.45,Francisco Javier Barrios-Real,44,female,0,0,Sevilla,Argentino,r,2,0,49.45,0,1,1,0,0,175,52,1
+565,0,145.05,Baltasar Agustín Isern,38,female,1,1,Barcelona,Venezolano,r,2,0,92.39,0,0,0,0,0,200,86,1
+566,0,32.3,Pedro Borrego Llamas,55,female,1,1,Madrid,Colombiano,r,1,0,86.64,1,1,1,0,1,182,56,0
+567,0,55.26,Gustavo Pont Vall,24,male,1,1,Málaga,Venezolano,r,2,0,41.03,0,1,1,0,1,176,76,0
+568,1,126.28,Paola Ayllón Español,53,male,1,1,Barcelona,Mexicano,r,0,0,63.65,0,1,1,0,0,160,88,0
+569,1,44.35,Berto Lorenzo Comas,60,male,0,1,Sevilla,Venezolano,r,2,1,43.77,0,1,1,0,1,162,64,0
+570,0,49.94,Leoncio de Mayoral,44,female,1,1,Madrid,Español,r,2,0,82.36,1,1,1,0,0,183,73,1
+571,1,44.94,Marcelo Jesús Bermejo Aragonés,33,female,0,1,Barcelona,Mexicano,r,1,0,58.23,0,1,1,0,1,195,50,0
+572,0,13.14,Vito Company Pol,65,male,0,0,Madrid,Español,r,0,0,1.62,1,0,0,1,1,150,97,1
+573,1,32.08,Sabina del Pujadas,39,female,1,0,Madrid,Venezolano,r,2,1,30.58,1,1,1,1,1,178,78,0
+574,0,100.76,Paco Mas Ferrández,38,female,1,1,Málaga,Colombiano,r,0,0,89.09,0,1,1,0,1,169,52,1
+575,0,103.97,Albano Elorza Garcés,61,male,0,1,Madrid,Venezolano,r,1,0,36.56,1,1,1,0,1,180,76,0
+576,0,59.21,Mireia Conesa-Feijoo,58,female,0,1,Sevilla,Argentino,r,0,0,75.36,0,0,0,0,0,158,50,0
+577,1,111.64,Pelayo Moll Sola,58,male,1,1,Barcelona,Español,r,2,0,29.2,0,1,1,0,0,159,57,0
+578,1,113.06,José Sales Hervás,43,female,1,1,Málaga,Venezolano,r,0,0,25.59,0,1,1,1,1,175,100,0
+579,1,74.44,Leandra Aroca Bárcena,26,female,0,0,Madrid,Colombiano,r,1,0,5.99,1,1,1,0,1,186,90,0
+580,1,72.33,Fortunata Jordán Artigas,56,male,0,0,Madrid,Español,r,2,0,98.01,1,0,0,1,1,186,53,1
+581,1,49.66,Coral Colom-Prieto,29,male,1,1,Málaga,Español,r,2,0,55.97,0,0,0,0,0,166,67,0
+582,0,27.88,Cornelio Morcillo Sandoval,23,female,0,1,Málaga,Venezolano,r,2,0,19.93,0,1,1,1,0,169,56,1
+583,1,108.26,Ruperto Rosado Ibañez,50,female,0,1,Madrid,Venezolano,r,2,0,70.22,1,1,1,1,1,167,86,1
+584,0,34.68,Encarnita del Olmo,40,female,0,1,Málaga,Mexicano,r,2,0,53.61,0,1,1,1,1,169,82,0
+585,1,49.01,Esmeralda Quintanilla-Barroso,28,female,1,0,Barcelona,Argentino,r,2,0,22.57,0,0,0,0,0,163,50,0
+586,0,69.97,Ramona Granados Gilabert,46,female,0,1,Sevilla,Venezolano,r,1,0,75.61,0,0,0,0,1,191,74,0
+587,1,61.99,Roldán Reina Solana,35,female,1,0,Málaga,Argentino,r,1,1,78.24,0,1,1,1,0,160,80,1
+588,1,32.37,Feliciana de Jordán,50,male,1,1,Madrid,Mexicano,r,2,0,93.6,1,1,1,1,0,186,65,1
+589,0,114.37,Jacinta Lerma,44,male,1,1,Málaga,Mexicano,r,1,0,74.43,0,0,0,1,1,195,54,1
+590,1,69.85,Edelmira Elías Aguilar,30,male,0,0,Barcelona,Venezolano,r,2,0,42.88,0,1,1,1,0,165,71,0
+591,1,110.21,Wálter Silva Carrasco,44,male,1,1,Madrid,Colombiano,r,1,1,67.2,1,0,0,0,1,169,84,1
+592,0,10.94,Leoncio Alba Cuesta,21,female,0,1,Madrid,Mexicano,r,0,0,11.93,1,1,1,1,0,185,51,1
+593,0,84.26,Samuel Cepeda Peñas,64,female,1,0,Valencia,Venezolano,r,2,1,99.4,0,1,1,0,1,181,59,1
+594,1,68.16,Luís Mur Alsina,41,male,0,1,Valencia,Español,r,1,0,45.49,0,0,0,0,1,153,97,1
+595,1,100.19,Angélica de Leal,49,male,0,0,Barcelona,Español,r,0,0,20.51,0,1,1,1,0,173,65,0
+596,1,16.13,Abilio Valdés Corominas,56,male,1,1,Sevilla,Mexicano,r,1,1,7.4,0,1,1,1,1,161,96,1
+597,0,78.77,Cruz Torre-Ferrán,49,female,1,1,Sevilla,Colombiano,r,0,0,89.72,0,1,1,1,0,174,100,0
+598,0,46.47,Rufina Benavente Abril,33,male,0,0,Sevilla,Colombiano,r,1,0,38.06,0,1,1,1,0,180,90,0
+599,0,102.76,Nereida Agullo Paniagua,31,female,1,0,Valencia,Español,r,0,1,50.83,0,0,0,1,0,200,98,1
+600,0,23.22,Aroa Riba Exposito,22,female,0,1,Málaga,Argentino,r,1,1,54.52,0,0,0,0,1,162,80,0
+601,1,78.74,Matilde Barral Murillo,55,male,1,0,Barcelona,Español,r,1,1,61.85,0,0,0,1,1,191,61,0
+602,1,117.09,Quique de Cortés,63,male,0,1,Barcelona,Español,r,0,0,51.52,0,1,1,1,1,175,61,1
+603,1,90.87,Flora Checa,46,male,1,0,Barcelona,Venezolano,r,1,0,37.71,0,1,1,1,1,192,95,1
+604,1,110.71,Calisto Valera,59,male,1,0,Barcelona,Mexicano,r,0,0,55.48,0,0,0,0,0,153,81,1
+605,1,76.36,Raimundo Cabezas-Izaguirre,42,male,1,1,Málaga,Colombiano,r,0,0,72.43,0,0,0,1,1,171,89,1
+606,1,109.11,Verónica Ávila,39,male,1,1,Málaga,Colombiano,r,0,1,73.18,0,0,0,1,1,174,87,0
+607,1,43.7,Eutropio Ortega-Carretero,39,female,1,1,Málaga,Colombiano,r,2,0,30.82,0,0,0,0,0,170,76,1
+608,1,72.73,Eva Carranza Clavero,29,male,0,1,Madrid,Español,r,0,0,78.63,1,1,1,1,1,154,70,0
+609,0,31.85,Sandra Salazar Garriga,42,male,0,1,Sevilla,Colombiano,r,1,1,75.53,0,0,0,0,1,164,69,1
+610,1,61.33,Pilar Salazar-Peñalver,25,female,1,1,Sevilla,Español,r,1,0,98.04,0,0,0,0,0,195,72,1
+611,1,23.76,Francisco Javier Busquets-Hoyos,56,female,0,0,Madrid,Venezolano,r,0,0,36.44,1,1,1,1,1,184,64,1
+612,1,79.36,Custodio Rincón Figuerola,29,female,0,1,Madrid,Mexicano,r,2,0,75.18,1,1,1,0,1,186,62,0
+613,0,145.98,Gala Gallo Tomé,31,female,0,0,Málaga,Argentino,r,0,0,79.22,0,1,1,0,0,170,90,1
+614,0,80.27,Ainoa Roma Jáuregui,63,male,1,0,Barcelona,Argentino,r,0,0,65.34,0,1,1,1,0,166,73,0
+615,1,35.14,Marcelo Arcos Colom,57,male,1,0,Barcelona,Venezolano,r,0,0,16.15,0,1,1,0,0,200,68,1
+616,1,53.93,Ildefonso Rojas Trillo,32,female,0,1,Madrid,Español,r,1,0,25.72,1,0,0,1,1,151,68,0
+617,0,25.08,Alexandra Villalobos Puig,28,male,0,1,Valencia,Colombiano,r,1,0,43.37,0,0,0,1,0,189,86,0
+618,0,81.27,Cruz Ferrera Rodrigo,49,female,1,1,Málaga,Argentino,r,0,1,45.31,0,0,0,0,1,163,100,0
+619,1,78.11,Humberto Reig Escalona,43,male,1,1,Madrid,Colombiano,r,1,0,85.43,1,0,0,1,0,190,56,0
+620,0,50.4,Luis Miguel del Cerro,19,female,0,1,Sevilla,Venezolano,r,2,0,97.98,0,0,0,1,1,200,64,1
+621,1,131.08,Delia Donoso,32,male,1,1,Málaga,Argentino,r,0,0,22.83,0,0,0,0,0,183,92,1
+622,1,34.69,Juan Pablo Cazorla Tudela,50,male,1,1,Sevilla,Venezolano,r,1,0,48.43,0,0,0,0,1,169,67,0
+623,1,110.71,Carmen Alba,23,female,0,0,Sevilla,Argentino,r,2,0,10.76,0,1,1,1,1,179,53,0
+624,0,105.08,Emiliano Prado Oliva,59,male,1,1,Málaga,Mexicano,r,2,0,8.29,0,0,0,1,0,183,81,1
+625,1,37.85,Baltasar Iker Alcalá Gómez,37,female,0,0,Málaga,Español,r,1,0,32.3,0,0,0,0,0,170,92,0
+626,1,114.13,Segismundo Vall Planas,18,female,0,1,Sevilla,Español,r,2,0,40.55,0,0,0,0,0,181,74,0
+627,1,59.42,Adoración Pardo Alemán,59,female,0,0,Málaga,Colombiano,r,1,0,93.12,0,0,0,1,0,198,71,1
+628,0,101.82,Nereida Castro-Salamanca,58,female,1,1,Sevilla,Argentino,r,2,0,58.44,0,0,0,0,0,154,99,0
+629,0,118.17,Rosario Arnal Tena,56,female,0,0,Madrid,Venezolano,r,1,0,74.07,1,0,0,1,1,161,75,1
+630,0,89.71,Ibán Bayona-Aliaga,56,female,0,0,Valencia,Argentino,r,1,0,31.84,0,1,1,0,1,185,63,1
+631,1,19.15,Joaquín del Silva,40,male,1,1,Valencia,Español,r,0,0,78.62,0,0,0,0,1,154,95,1
+632,1,148.1,Paola Verdejo Bárcena,42,male,1,1,Málaga,Venezolano,r,1,0,98.55,0,0,0,1,0,157,94,1
+633,0,75.49,Sabas del Cuéllar,24,female,0,1,Madrid,Español,r,1,0,15.98,1,1,1,1,0,173,61,1
+634,0,38.14,Jacobo Morera Abellán,61,female,0,0,Valencia,Colombiano,r,1,0,11.96,0,0,0,1,1,189,74,1
+635,0,31.07,Esteban Andreu Llopis,39,female,0,0,Málaga,Argentino,r,0,0,87.54,0,1,1,0,1,153,69,0
+636,1,86.6,Asdrubal Reguera Feijoo,39,female,0,0,Barcelona,Argentino,r,1,0,38.68,0,1,1,0,0,178,75,1
+637,0,17.79,Alonso del Lillo,56,male,0,1,Sevilla,Argentino,r,0,0,49.46,0,0,0,0,1,171,58,0
+638,0,17.61,Guiomar Azorin,54,female,1,1,Sevilla,Mexicano,r,1,0,75.55,0,0,0,0,0,167,94,0
+639,1,137.41,Ascensión Josefa Torrents Roura,25,male,1,0,Madrid,Mexicano,r,0,0,65.73,1,1,1,1,1,175,53,1
+640,1,58.86,Ariel Julio César Huguet Mata,61,female,0,0,Sevilla,Español,r,1,0,99.0,0,1,1,0,0,169,84,1
+641,0,50.86,Cándida Arnal Tejedor,39,female,1,1,Barcelona,Colombiano,r,0,0,6.39,0,1,1,0,1,169,80,0
+642,1,26.65,Carmelo Saavedra Dueñas,35,male,1,1,Barcelona,Argentino,r,1,0,92.52,0,1,1,0,1,170,99,0
+643,0,39.62,Ana Sofía Elorza Abascal,51,female,0,0,Valencia,Colombiano,r,0,0,83.15,0,0,0,1,1,150,92,0
+644,0,139.11,Concepción Acevedo,46,male,1,0,Barcelona,Venezolano,r,0,0,25.54,0,0,0,1,1,196,62,0
+645,1,115.45,Basilio Muro Villar,62,female,0,1,Valencia,Colombiano,r,1,0,78.19,0,1,1,0,0,180,98,0
+646,0,99.6,Angélica Mate Tomas,43,female,0,0,Barcelona,Argentino,r,1,0,62.83,0,1,1,1,1,180,86,0
+647,1,131.18,Luis Ángel Vazquez Corominas,48,female,0,0,Málaga,Argentino,r,2,1,76.02,0,0,0,1,0,162,85,1
+648,0,146.75,Oriana Prat Rubio,34,female,1,0,Málaga,Español,r,2,0,60.52,0,1,1,1,1,196,96,0
+649,1,84.49,Maxi Roca Otero,52,male,1,1,Madrid,Argentino,r,2,0,70.41,1,0,0,1,1,157,75,0
+650,1,105.63,Teresa Pili Tamayo Morell,64,male,1,0,Valencia,Colombiano,r,0,1,83.62,0,1,1,1,0,152,69,0
+651,0,37.18,Raúl Paz Blázquez,29,female,0,0,Barcelona,Venezolano,r,1,0,85.22,0,1,1,0,0,167,60,0
+652,0,114.23,Domitila de Ocaña,50,female,0,0,Málaga,Venezolano,r,1,0,1.36,0,0,0,0,1,172,54,1
+653,0,80.3,Encarnación Beltrán Canals,63,female,1,1,Sevilla,Colombiano,r,1,0,61.61,0,0,0,1,0,177,71,1
+654,1,62.49,Tito Beltran Roig,46,male,0,0,Sevilla,Venezolano,r,2,0,10.53,0,1,1,0,0,183,98,0
+655,0,115.93,Cloe Lumbreras Valls,31,male,1,0,Madrid,Colombiano,r,0,0,41.58,1,0,0,0,0,165,60,0
+656,1,107.62,Wilfredo Sánchez Costa,41,male,1,1,Barcelona,Español,r,1,0,41.16,0,1,1,0,0,159,95,1
+657,1,139.73,Reyes Luis Zabaleta Pinto,21,female,0,0,Valencia,Argentino,r,0,0,12.19,0,1,1,1,1,165,68,1
+658,1,22.39,Pánfilo Escribano Pelayo,29,male,1,1,Madrid,Mexicano,r,2,0,53.33,1,1,1,0,0,192,96,1
+659,0,28.48,Asunción Acevedo,22,female,1,0,Valencia,Argentino,r,1,0,81.53,0,0,0,0,1,183,96,1
+660,1,115.46,Eloísa Tormo-Molina,31,female,1,1,Málaga,Argentino,r,2,0,42.36,0,1,1,1,0,187,61,1
+661,0,86.53,Jenny de Duran,60,male,1,1,Valencia,Español,r,1,0,77.14,0,1,1,0,1,160,54,0
+662,0,132.09,Irene Rufina Salinas Rozas,39,female,0,1,Madrid,Argentino,r,2,0,40.82,1,0,0,1,1,150,78,1
+663,1,89.58,Ramona Mateo Izaguirre,19,male,1,0,Barcelona,Mexicano,r,1,1,55.29,0,1,1,0,1,155,75,0
+664,1,147.89,Ofelia Sola Cantón,27,male,0,1,Barcelona,Mexicano,r,1,0,49.67,0,0,0,1,0,199,95,1
+665,1,62.68,Domitila Alegria,54,female,1,1,Madrid,Español,r,2,0,23.52,1,1,1,1,1,170,76,0
+666,1,145.33,Rocío Fajardo Cánovas,30,male,0,1,Valencia,Venezolano,r,2,0,25.49,0,1,1,1,1,194,68,1
+667,1,112.6,María Del Carmen Vallejo Márquez,26,female,0,0,Valencia,Español,r,0,0,77.26,0,1,1,1,0,176,73,0
+668,1,56.12,Felisa Serra Aguado,49,female,0,1,Barcelona,Colombiano,r,2,0,8.18,0,1,1,1,0,181,89,0
+669,1,111.94,Aitor Frutos-Baquero,28,male,1,0,Valencia,Español,r,0,1,14.37,0,1,1,1,1,157,76,1
+670,0,147.54,Evita Ballesteros-Rius,63,female,1,0,Málaga,Español,r,1,0,79.23,0,1,1,1,1,169,79,0
+671,0,80.45,Rosaura Urrutia España,57,female,0,1,Málaga,Mexicano,r,0,0,4.42,0,1,1,0,1,152,86,0
+672,1,24.84,Pablo Lopez Sarmiento,31,male,0,0,Madrid,Español,r,1,0,4.02,1,0,0,0,1,196,90,0
+673,0,16.35,Felix Pinedo Duarte,57,male,0,0,Valencia,Argentino,r,1,0,28.54,0,0,0,0,0,191,86,1
+674,1,24.72,Nico Casal Martínez,63,male,1,1,Barcelona,Mexicano,r,1,0,43.25,0,1,1,1,0,190,88,0
+675,0,121.63,Mamen Calleja Escolano,36,female,0,1,Málaga,Español,r,0,1,47.65,0,1,1,1,1,185,81,1
+676,0,17.01,Candelas Zaragoza,53,female,0,1,Barcelona,Argentino,r,2,0,25.79,0,1,1,0,0,191,74,1
+677,1,111.24,Nazaret Clara Riquelme Jara,53,male,1,0,Málaga,Venezolano,r,1,0,84.85,0,1,1,1,0,152,51,1
+678,0,149.38,Javi Donoso Dueñas,28,female,0,0,Valencia,Venezolano,r,2,0,5.36,0,1,1,0,0,197,75,1
+679,0,64.8,Eloísa Azcona Montesinos,43,male,1,0,Sevilla,Venezolano,r,2,0,45.91,0,0,0,0,0,199,88,0
+680,0,77.26,Blas Riquelme Revilla,51,female,1,0,Málaga,Colombiano,r,0,0,36.48,0,1,1,1,0,167,95,1
+681,0,116.87,José Manuel Nogués Báez,52,female,1,1,Valencia,Colombiano,r,1,0,56.81,0,1,1,0,0,164,64,1
+682,0,80.2,Lucho Villegas-Verdú,52,female,0,1,Málaga,Argentino,r,2,1,68.82,0,0,0,1,0,186,63,1
+683,0,36.88,Toni Tamayo Bartolomé,38,male,1,1,Sevilla,Mexicano,r,2,0,70.13,0,1,1,0,1,157,62,1
+684,0,133.28,Anita Abascal Juliá,45,male,1,0,Madrid,Argentino,r,2,0,25.49,1,1,1,0,0,190,59,1
+685,1,104.16,Fortunato Torrens Cases,34,female,0,1,Sevilla,Colombiano,r,0,0,39.31,0,0,0,0,1,153,89,1
+686,0,34.72,Aurelia Fabregat Bermejo,43,female,0,1,Madrid,Español,r,1,0,77.27,1,0,0,0,1,159,76,0
+687,1,17.04,Florentina Almansa Arellano,47,male,0,1,Valencia,Venezolano,r,2,0,78.14,0,1,1,1,0,176,99,1
+688,0,15.4,Rufino Ribera Azcona,46,male,0,1,Barcelona,Español,r,0,0,42.68,0,0,0,0,1,153,91,0
+689,0,34.5,Mariana Hidalgo-Calderón,39,female,0,0,Sevilla,Colombiano,r,0,0,75.06,0,0,0,1,0,165,75,1
+690,0,93.73,Maxi Roura-Peña,65,female,0,1,Málaga,Venezolano,r,0,0,1.67,0,1,1,0,1,184,51,1
+691,0,21.62,Moisés del Tejada,29,female,0,1,Barcelona,Español,r,1,0,40.7,0,0,0,0,1,186,96,0
+692,1,149.35,Marcelino del Martinez,60,female,0,1,Barcelona,Español,r,1,0,97.77,0,1,1,0,1,196,82,1
+693,1,65.69,Cloe Arcos Cárdenas,39,male,0,0,Málaga,Colombiano,r,1,0,47.83,0,1,1,1,1,198,68,0
+694,1,50.66,Obdulia de Cortina,31,female,1,0,Málaga,Argentino,r,0,1,23.53,0,1,1,1,0,152,56,0
+695,1,21.9,Alcides Jose Ignacio Carreras Sola,32,female,0,0,Valencia,Venezolano,r,2,0,37.23,0,1,1,1,1,175,67,0
+696,0,90.16,Margarita Verdugo-Canales,46,male,0,1,Málaga,Argentino,r,1,1,95.61,0,1,1,0,0,180,89,1
+697,0,42.71,Inés Rubio-Carretero,40,male,0,1,Málaga,Mexicano,r,1,0,34.85,0,0,0,0,1,169,73,1
+698,0,37.05,Virgilio Cervera,57,female,0,1,Sevilla,Venezolano,r,2,0,67.08,0,0,0,1,0,160,98,0
+699,1,72.56,Albina Badía Doménech,27,female,1,1,Málaga,Venezolano,r,2,1,48.4,0,1,1,1,0,196,98,1
+700,1,41.08,Abril Pelayo Vargas,60,female,0,1,Madrid,Colombiano,r,2,0,50.33,1,0,0,0,1,184,51,0
+701,0,57.49,Chita Murillo Arrieta,45,female,1,0,Barcelona,Argentino,r,2,0,96.55,0,1,1,0,0,159,52,1
+702,0,86.91,Baudelio Diéguez Plaza,40,female,1,0,Madrid,Venezolano,r,0,0,58.64,1,0,0,0,1,193,88,0
+703,1,34.74,Micaela Garrido Llano,22,female,0,0,Madrid,Mexicano,r,1,1,95.04,1,0,0,0,1,162,98,0
+704,0,41.12,Jose Luis Oliveras-Valverde,41,female,0,0,Valencia,Argentino,r,1,0,60.87,0,0,0,0,0,189,84,1
+705,0,131.22,Macarena Emperatriz Segura Zamora,30,male,1,1,Sevilla,Colombiano,r,1,0,17.87,0,1,1,1,1,183,97,0
+706,1,30.89,Rodolfo Juanito Galán Perera,37,female,1,0,Valencia,Argentino,r,0,1,59.92,0,1,1,1,1,172,50,0
+707,1,128.36,Marino Arnaiz Elías,47,male,1,1,Madrid,Argentino,r,1,0,58.65,1,1,1,1,1,169,76,1
+708,0,16.1,Jose Ramón Millán Porta,19,female,0,0,Sevilla,Colombiano,r,0,0,20.12,0,1,1,1,0,187,82,1
+709,1,37.03,Carlito Toledo Ferrán,54,male,1,1,Valencia,Español,r,2,0,27.3,0,0,0,1,0,153,68,1
+710,1,79.66,Imelda Roda,32,female,1,1,Madrid,Español,r,2,1,49.29,1,1,1,0,0,188,67,0
+711,1,52.47,Magdalena Nerea Morillo Sáenz,28,male,0,0,Málaga,Mexicano,r,2,1,61.18,0,0,0,1,0,172,56,0
+712,1,17.68,Javier Barriga Valero,37,male,0,0,Madrid,Venezolano,r,2,0,92.72,1,1,1,0,1,174,53,1
+713,1,77.44,Teodoro Oliveras-Carbonell,62,male,1,0,Madrid,Colombiano,r,1,0,56.9,1,0,0,0,0,151,73,0
+714,0,25.56,Chus Durán Anglada,63,male,0,1,Madrid,Argentino,r,1,1,75.99,1,0,0,0,0,186,70,1
+715,1,12.2,Evangelina Serafina Cabeza Cañizares,59,male,0,0,Málaga,Español,r,0,0,96.98,0,1,1,0,1,154,89,1
+716,1,10.63,Guillermo Guzmán-Villena,39,female,0,0,Barcelona,Venezolano,r,1,0,45.91,0,1,1,1,1,153,51,1
+717,0,59.42,José Luis Nicolás Mariscal,51,male,1,0,Sevilla,Mexicano,r,2,0,43.51,0,0,0,1,0,183,73,1
+718,1,16.21,Amarilis Ledesma Mendoza,35,female,1,0,Barcelona,Colombiano,r,1,0,33.09,0,1,1,0,0,160,55,0
+719,1,46.17,Fabián Salazar Cisneros,53,male,0,0,Valencia,Venezolano,r,2,0,9.86,0,1,1,0,1,187,83,1
+720,0,148.07,Joel Aureliano Matas Saavedra,37,female,1,0,Málaga,Español,r,0,0,64.44,0,1,1,0,1,185,87,0
+721,0,29.43,Virginia Aguado Bolaños,53,female,1,1,Sevilla,Venezolano,r,1,1,50.35,0,1,1,1,0,162,87,0
+722,1,35.69,Julio César Amor Cerdá,36,male,1,0,Málaga,Español,r,0,0,37.33,0,1,1,1,1,194,55,1
+723,1,41.15,Teodora Martí Espinosa,32,female,1,1,Madrid,Colombiano,r,2,1,82.35,1,1,1,0,0,170,51,1
+724,1,92.14,Che Sainz Sosa,34,female,0,0,Valencia,Venezolano,r,0,0,56.19,0,0,0,1,0,156,81,0
+725,1,95.43,Micaela Agustí Ballesteros,49,male,1,0,Valencia,Venezolano,r,2,0,22.33,0,0,0,0,1,169,69,1
+726,1,13.33,Lilia Barrio Parra,51,female,0,1,Valencia,Colombiano,r,1,0,42.09,0,1,1,1,0,190,60,1
+727,0,68.54,Marcos Severo Caro Rosales,64,male,0,0,Sevilla,Colombiano,r,2,0,56.84,0,1,1,0,1,190,72,0
+728,0,121.63,Raimundo Aitor Mendizábal Cerdán,49,female,1,1,Barcelona,Venezolano,r,2,0,57.49,0,0,0,1,1,152,96,0
+729,1,100.14,Sol Andrade Montenegro,50,female,0,1,Sevilla,Venezolano,r,1,0,87.2,0,1,1,1,1,159,60,1
+730,0,110.79,Renata Serna,38,female,1,0,Málaga,Español,r,0,0,21.48,0,1,1,1,0,181,58,1
+731,1,42.99,Esperanza Martí Jáuregui,18,male,0,1,Valencia,Argentino,r,2,0,19.69,0,1,1,1,0,200,98,1
+732,0,79.43,Palmira Mayol Zurita,20,female,0,0,Valencia,Argentino,r,2,1,52.16,0,0,0,1,0,199,85,0
+733,0,100.2,Cesar Gaya Patiño,28,female,0,0,Barcelona,Argentino,r,1,1,8.36,0,1,1,0,1,161,85,1
+734,0,47.63,Anselmo Barón-Francisco,62,female,0,1,Málaga,Español,r,1,0,57.13,0,0,0,0,1,184,62,0
+735,1,38.38,Gastón del Manjón,64,male,1,1,Barcelona,Venezolano,r,2,0,97.37,0,1,1,0,0,194,70,0
+736,1,110.57,Severino Catalán Galván,60,female,1,1,Madrid,Mexicano,r,2,0,45.36,1,1,1,1,0,151,62,1
+737,1,111.66,Santos Osorio Morata,19,male,1,1,Madrid,Colombiano,r,1,0,45.45,1,1,1,0,1,174,86,1
+738,1,69.94,Eugenio Expósito Aznar,41,male,0,1,Barcelona,Español,r,0,0,29.18,0,0,0,0,1,196,65,1
+739,1,122.25,Iván Manu Alemany Quintana,33,male,0,0,Valencia,Colombiano,r,0,0,35.13,0,0,0,0,1,190,52,0
+740,0,143.67,Tristán Palacio Esparza,25,male,1,1,Sevilla,Argentino,r,1,0,84.5,0,1,1,0,1,179,96,0
+741,0,133.26,Segismundo Alcolea Guillen,23,female,0,0,Madrid,Venezolano,r,0,0,5.91,1,0,0,0,0,172,71,0
+742,1,78.85,Rosalía Espinosa-Iniesta,54,male,1,0,Barcelona,Venezolano,r,2,0,4.4,0,1,1,0,0,187,97,1
+743,1,60.81,Herberto Feliu-Cózar,38,female,0,1,Valencia,Venezolano,r,0,0,34.66,0,1,1,1,0,160,82,0
+744,0,73.23,Guiomar Oliva Menendez,40,male,0,0,Málaga,Colombiano,r,0,0,98.87,0,1,1,0,0,183,97,1
+745,1,39.66,Vanesa Requena-Almeida,55,male,0,0,Sevilla,Mexicano,r,2,1,80.18,0,1,1,0,1,175,67,1
+746,1,16.02,Lalo Almansa Vila,48,female,0,1,Málaga,Venezolano,r,0,0,48.13,0,1,1,1,0,187,96,1
+747,0,41.43,Maristela del Segovia,65,female,1,1,Sevilla,Español,r,2,0,94.75,0,0,0,0,1,154,60,0
+748,1,112.29,Jennifer Alcántara Arellano,55,female,0,1,Sevilla,Español,r,0,0,71.71,0,0,0,0,0,199,61,1
+749,1,35.08,Lupe Morera Valencia,51,female,0,1,Málaga,Español,r,0,0,73.21,0,0,0,1,1,168,69,1
+750,1,110.52,Gabriela Alcalá,21,male,1,0,Barcelona,Español,r,2,0,4.88,0,1,1,1,1,199,98,0
+751,1,39.21,Pablo Fernández Arcos,29,female,1,0,Madrid,Mexicano,r,0,0,62.36,1,0,0,0,0,195,74,1
+752,1,95.24,Curro de Cano,21,male,0,0,Sevilla,Mexicano,r,1,0,52.17,0,0,0,1,1,158,80,1
+753,0,97.85,Ramón Caparrós Carballo,56,female,1,0,Málaga,Venezolano,r,0,0,58.36,0,1,1,1,1,152,64,1
+754,0,136.84,Febe de Manuel,57,female,1,0,Valencia,Mexicano,r,2,0,12.27,0,0,0,0,1,197,70,0
+755,1,21.82,Ceferino Pardo Carnero,19,male,0,0,Barcelona,Venezolano,r,2,0,56.62,0,0,0,1,0,161,91,1
+756,1,49.38,Jesús de Montaña,44,female,1,0,Valencia,Mexicano,r,2,0,7.24,0,0,0,1,0,186,60,1
+757,1,80.5,Lucho Alfonso Aguado,46,male,1,1,Valencia,Argentino,r,2,1,49.57,0,1,1,1,0,164,83,0
+758,1,120.08,Ignacio Alvarez Marín,48,male,1,1,Valencia,Colombiano,r,2,0,73.79,0,0,0,1,0,154,68,1
+759,1,16.37,Cristian del Sanabria,62,female,0,0,Barcelona,Español,r,0,0,70.78,0,1,1,0,0,176,98,1
+760,1,105.67,Roque Fernández Cobos,56,male,1,1,Madrid,Colombiano,r,0,0,91.39,1,1,1,0,0,186,82,0
+761,1,134.35,Noé Blanca Ricart,27,female,0,0,Valencia,Venezolano,r,2,0,37.85,0,0,0,1,0,194,90,0
+762,1,119.41,Judith Sastre-Saez,39,male,1,1,Madrid,Español,r,2,0,69.25,1,1,1,1,1,183,76,0
+763,0,24.9,Rodolfo Arenas Infante,24,female,1,1,Madrid,Mexicano,r,1,0,53.48,1,1,1,1,1,176,67,1
+764,0,141.46,Estela Marco Almeida,65,female,0,1,Sevilla,Colombiano,r,2,1,39.52,0,1,1,0,0,179,77,1
+765,0,90.04,Ángel Carbonell Niño,58,female,0,1,Barcelona,Español,r,1,0,39.13,0,0,0,0,1,172,72,1
+766,1,31.83,Adelina Yuste Diego,54,male,1,0,Valencia,Español,r,0,0,5.77,0,0,0,0,1,163,92,0
+767,0,115.98,Julio César de Torrens,29,female,0,1,Valencia,Argentino,r,1,0,99.63,0,1,1,0,1,178,91,0
+768,1,44.49,Amador Martínez-Rojas,46,male,0,1,Sevilla,Español,r,1,0,35.74,0,0,0,1,0,157,90,1
+769,0,75.64,Rolando Mariño-Trillo,25,female,1,1,Sevilla,Mexicano,r,2,0,25.0,0,1,1,1,0,174,79,1
+770,1,118.56,Isidora Valdés Arnaiz,26,male,1,0,Barcelona,Venezolano,r,1,0,40.72,0,0,0,0,0,159,74,0
+771,1,94.33,Imelda Larrea Correa,19,male,0,1,Barcelona,Argentino,r,2,0,79.75,0,0,0,0,0,154,51,0
+772,0,147.31,Jimena de Font,25,female,0,0,Valencia,Español,r,2,0,28.03,0,1,1,1,0,182,78,1
+773,0,106.2,Godofredo Zabaleta Castilla,18,female,1,1,Madrid,Venezolano,r,1,0,50.95,1,1,1,1,0,157,86,0
+774,0,10.63,Juan José Fábregas Garrido,48,male,1,0,Barcelona,Colombiano,r,2,0,6.49,0,1,1,1,1,153,91,1
+775,0,120.93,Antonio Benítez Zurita,41,female,0,1,Sevilla,Argentino,r,1,0,98.47,0,1,1,0,1,161,60,1
+776,1,96.75,Bautista Cobo-Valencia,53,female,1,0,Barcelona,Mexicano,r,0,0,44.46,0,1,1,0,0,175,52,1
+777,1,23.81,Isidora Vera Jaén,61,female,0,0,Madrid,Mexicano,r,2,0,16.26,1,0,0,0,1,151,51,1
+778,0,137.88,Piedad Perelló Blanch,46,female,0,1,Madrid,Español,r,0,0,31.51,1,0,0,0,1,164,93,0
+779,1,146.3,Carlota Cuervo Bru,54,female,1,0,Valencia,Venezolano,r,1,0,97.28,0,1,1,0,1,197,50,0
+780,0,21.81,Guiomar Román Prat,26,female,0,0,Madrid,Venezolano,r,0,0,24.89,1,0,0,1,1,187,66,1
+781,1,108.23,Leticia Blanch-Ordóñez,58,male,1,0,Valencia,Argentino,r,1,0,86.21,0,0,0,1,0,176,69,1
+782,0,49.18,Guadalupe del Prats,37,female,0,0,Valencia,Mexicano,r,2,0,18.22,0,0,0,1,0,176,77,1
+783,1,87.13,Ana Sofía Cabañas Canals,24,male,1,0,Barcelona,Argentino,r,0,0,25.61,0,0,0,1,0,192,51,1
+784,1,101.64,Adela Otilia Verdugo Blanes,49,male,0,1,Sevilla,Venezolano,r,2,0,30.21,0,0,0,0,0,186,64,1
+785,0,113.8,Viviana Llorente España,48,female,0,1,Madrid,Español,r,2,1,59.2,1,0,0,0,1,178,69,1
+786,1,31.45,Toribio Bello-Ibarra,24,male,1,1,Sevilla,Argentino,r,1,1,87.37,0,0,0,0,0,179,70,0
+787,0,30.33,Feliciano Neira Verdejo,54,male,0,1,Málaga,Argentino,r,1,0,28.85,0,1,1,1,0,158,53,0
+788,1,78.89,Mercedes Albero Barral,46,male,1,0,Sevilla,Venezolano,r,2,1,12.68,0,1,1,0,1,150,54,0
+789,1,27.91,Maximiano Sacristán-Calvet,24,female,0,1,Málaga,Colombiano,r,1,0,44.43,0,1,1,0,0,166,73,0
+790,1,63.74,Candelario Pérez Armengol,35,male,1,1,Sevilla,Argentino,r,1,0,56.55,0,0,0,1,0,193,95,0
+791,0,50.1,Palmira Camila Caparrós Millán,47,male,1,0,Málaga,Mexicano,r,0,0,34.69,0,1,1,0,0,177,84,1
+792,0,90.41,Benigno Gonzalez Gelabert,40,male,1,0,Málaga,Español,r,1,1,99.99,0,1,1,0,0,187,76,1
+793,0,51.25,Sancho Pinedo Quesada,44,female,0,1,Valencia,Mexicano,r,1,0,61.97,0,1,1,1,1,188,76,0
+794,0,67.0,Lorenzo Sánchez Pol,59,female,1,0,Sevilla,Venezolano,r,2,0,86.37,0,1,1,0,0,184,95,0
+795,0,43.44,Celestino Escobar,42,female,1,1,Málaga,Argentino,r,2,1,8.7,0,0,0,0,1,155,66,0
+796,0,66.1,Ricarda de Perelló,60,male,0,1,Málaga,Español,r,0,1,51.73,0,0,0,0,1,196,92,0
+797,1,76.33,Bruno Javi Pascual Mateo,28,female,0,0,Málaga,Venezolano,r,0,0,30.31,0,0,0,1,1,159,87,1
+798,1,99.86,Emperatriz Verdugo Esteban,29,male,1,1,Barcelona,Argentino,r,0,0,69.63,0,1,1,1,1,169,54,1
+799,1,58.44,Graciela Escribano-Saavedra,64,male,1,0,Madrid,Venezolano,r,0,0,26.36,1,1,1,0,1,178,77,1
+800,1,39.79,Fabiana Mosquera Correa,32,female,0,1,Sevilla,Argentino,r,0,0,41.95,0,1,1,0,0,189,90,1
+801,1,70.35,Anselma Cuervo Domínguez,64,female,0,0,Málaga,Español,r,2,0,97.65,0,1,1,0,0,193,64,0
+802,0,25.16,Marcial Aramburu-Tapia,46,male,1,0,Sevilla,Mexicano,r,0,0,97.71,0,1,1,1,1,186,78,1
+803,1,62.35,Jose Manuel Amador Gonzalo,63,female,1,0,Málaga,Español,r,0,0,19.31,0,1,1,1,0,189,71,1
+804,0,45.68,Ariel Raya Lastra,24,female,0,1,Valencia,Argentino,r,0,0,37.84,0,1,1,0,1,191,81,0
+805,0,14.13,Angelita Anita Ferrando Martínez,30,male,1,1,Sevilla,Mexicano,r,0,0,78.83,0,0,0,0,1,179,50,0
+806,1,40.3,Reynaldo Talavera Casal,57,male,1,0,Sevilla,Argentino,r,2,0,20.43,0,1,1,1,0,188,54,1
+807,0,72.02,Basilio Azorin Arellano,57,female,0,0,Valencia,Colombiano,r,2,0,30.99,0,1,1,1,0,165,82,0
+808,1,125.88,Sosimo López Mosquera,62,male,0,1,Valencia,Argentino,r,0,0,35.86,0,1,1,1,1,174,55,0
+809,0,32.38,María José Etelvina Castilla Garcia,22,female,1,1,Barcelona,Colombiano,r,1,0,76.82,0,0,0,0,0,155,65,0
+810,1,110.49,Guiomar Polo Marquez,44,male,0,0,Sevilla,Mexicano,r,1,0,26.98,0,1,1,1,0,180,69,1
+811,0,112.34,Hernando Ribes Rodríguez,21,female,1,1,Madrid,Colombiano,r,2,0,34.07,1,1,1,1,1,161,72,1
+812,1,87.66,Lorenza Español,51,female,0,1,Madrid,Español,r,0,0,33.04,1,1,1,1,1,178,95,1
+813,1,56.44,Marta Adelaida Miró Frías,40,female,1,0,Valencia,Argentino,r,0,0,37.54,0,1,1,0,0,176,81,1
+814,1,71.26,Macario Quintanilla Escobar,52,female,0,1,Málaga,Mexicano,r,0,0,51.03,0,0,0,1,0,179,64,0
+815,1,39.46,Jessica Barragán Carvajal,57,female,0,1,Madrid,Español,r,1,0,22.81,1,0,0,0,1,171,51,1
+816,0,48.92,Aristides Jáuregui Egea,48,male,0,1,Madrid,Venezolano,r,1,1,91.03,1,0,0,0,1,151,77,1
+817,1,130.49,Jacinto Rincón Alcalde,54,male,1,0,Barcelona,Español,r,0,0,30.28,0,1,1,1,0,151,95,1
+818,0,55.86,Melania Sanmiguel Manzano,20,male,0,1,Málaga,Venezolano,r,0,0,59.63,0,0,0,0,0,166,58,0
+819,0,136.42,Pili Rovira-Alcalá,31,female,1,0,Sevilla,Venezolano,r,2,0,88.76,0,1,1,1,0,163,77,0
+820,1,123.84,Dulce Berenguer-Cervera,63,male,0,1,Barcelona,Argentino,r,2,1,59.93,0,1,1,1,0,171,66,0
+821,1,36.7,Artemio Tomé Montserrat,24,female,1,0,Málaga,Mexicano,r,0,0,36.74,0,0,0,0,1,161,80,1
+822,1,36.4,Celia Checa Marti,57,female,0,0,Málaga,Español,r,2,0,70.36,0,0,0,0,0,171,66,0
+823,0,16.19,Jose Donaire,53,female,1,1,Valencia,Mexicano,r,1,0,17.76,0,0,0,1,0,177,93,0
+824,0,43.1,Maxi Andrés Felipe Ruiz Exposito,41,male,0,0,Barcelona,Venezolano,r,0,0,80.16,0,1,1,1,0,194,84,0
+825,1,117.17,Isaac Castellanos Bonilla,38,male,0,1,Barcelona,Español,r,0,0,68.76,0,0,0,1,1,196,65,1
+826,0,80.03,Carlota Vila Abascal,59,female,0,1,Málaga,Español,r,1,0,73.43,0,0,0,1,0,197,61,0
+827,0,127.21,Pelayo del Donaire,19,male,1,0,Barcelona,Mexicano,r,0,0,4.15,0,0,0,1,0,187,55,1
+828,0,107.02,Benigna Giménez Alcalá,47,male,1,0,Valencia,Español,r,1,0,43.01,0,1,1,1,1,150,56,1
+829,1,86.16,Paulino del Puerta,65,male,1,0,Barcelona,Venezolano,r,1,0,59.44,0,0,0,1,0,187,85,0
+830,1,49.81,Jenaro de Montalbán,52,male,0,0,Málaga,Colombiano,r,1,1,59.24,0,1,1,1,0,157,74,1
+831,0,135.35,Rodrigo Guerra Castell,24,male,1,1,Valencia,Venezolano,r,2,1,46.05,0,0,0,0,1,165,91,0
+832,1,130.96,Luis de Pol,60,male,1,1,Barcelona,Colombiano,r,2,0,98.97,0,1,1,0,0,192,88,1
+833,0,83.13,Jaime de Velasco,62,male,0,0,Málaga,Venezolano,r,0,0,11.07,0,0,0,1,0,157,57,0
+834,0,74.7,Marina Narcisa Lozano Colom,32,male,1,1,Málaga,Mexicano,r,2,1,67.87,0,1,1,1,0,181,91,1
+835,1,129.62,María Pilar Ros Español,33,male,0,1,Madrid,Español,r,0,0,97.12,1,1,1,1,0,195,54,0
+836,1,63.04,Paola Arjona,38,female,1,1,Sevilla,Argentino,r,1,0,59.69,0,0,0,1,0,176,58,1
+837,0,133.09,Evangelina Muro Echevarría,55,female,1,1,Sevilla,Español,r,1,0,45.31,0,1,1,0,1,200,79,0
+838,0,27.73,Eugenia Criado Galán,26,male,1,1,Sevilla,Mexicano,r,0,0,11.38,0,1,1,1,1,180,77,0
+839,0,100.38,Zaira Bellido Espejo,58,female,0,1,Barcelona,Argentino,r,2,0,76.03,0,1,1,0,1,198,98,1
+840,1,144.81,Carolina Casares Tomás,21,female,0,0,Madrid,Español,r,2,0,24.72,1,1,1,1,1,168,57,0
+841,1,106.77,Corona Naranjo Alberto,56,female,0,0,Sevilla,Colombiano,r,1,1,17.29,0,0,0,0,1,166,56,0
+842,1,139.42,Adán Alsina,33,female,1,0,Madrid,Argentino,r,1,0,65.16,1,0,0,0,1,173,72,1
+843,1,76.81,Ainara del León,36,female,1,0,Sevilla,Venezolano,r,0,0,99.61,0,1,1,1,0,154,67,1
+844,1,63.91,Luz Díaz Viana,35,male,1,0,Barcelona,Argentino,r,2,0,33.28,0,1,1,1,0,171,56,0
+845,1,54.38,Marcia Páez Piñeiro,42,male,0,0,Barcelona,Argentino,r,2,0,45.02,0,0,0,1,0,174,66,0
+846,0,16.71,Melisa Serna Hoyos,25,male,1,1,Sevilla,Español,r,2,1,57.76,0,0,0,1,1,189,65,1
+847,0,33.59,María Carmen Viña Sevilla,63,female,1,0,Sevilla,Argentino,r,0,0,28.33,0,0,0,0,0,180,59,1
+848,0,136.48,Chuy Solana,58,female,1,0,Madrid,Colombiano,r,0,0,12.24,1,0,0,0,0,187,87,1
+849,0,126.95,Lupe Hernández Rosselló,46,male,1,0,Málaga,Argentino,r,0,0,65.04,0,1,1,1,0,158,65,0
+850,1,116.56,Magdalena Mora Roldan,61,male,0,1,Sevilla,Mexicano,r,2,1,33.83,0,1,1,1,0,191,90,0
+851,0,86.0,Cintia Flores Cardona,35,female,1,0,Valencia,Argentino,r,0,0,86.65,0,1,1,0,1,193,81,0
+852,0,37.91,Pepe del Gelabert,38,male,0,0,Barcelona,Español,r,1,0,99.18,0,1,1,0,0,169,66,0
+853,1,111.53,Roque del Hierro,50,female,0,0,Málaga,Colombiano,r,1,0,21.48,0,1,1,0,1,184,53,1
+854,0,91.47,Che Heraclio Mesa Almazán,49,female,1,1,Barcelona,Venezolano,r,0,1,94.92,0,1,1,0,0,189,73,1
+855,0,141.27,Valerio Almansa Briones,37,male,1,0,Valencia,Venezolano,r,1,0,14.55,0,1,1,0,0,167,93,0
+856,1,58.89,Chelo Céspedes Jaume,62,female,1,0,Sevilla,Argentino,r,0,0,55.95,0,1,1,0,0,163,84,1
+857,1,119.94,Xavier Salvà,53,male,1,0,Valencia,Español,r,2,0,7.78,0,1,1,1,1,162,65,1
+858,1,14.8,Ramiro Cañizares Vilaplana,54,male,0,0,Málaga,Mexicano,r,0,0,97.63,0,0,0,0,0,153,84,1
+859,1,58.8,Tristán Mario Sans Bosch,55,male,0,1,Barcelona,Argentino,r,0,0,13.16,0,1,1,0,0,151,69,0
+860,1,110.44,Toño Ros-Garay,36,male,0,1,Barcelona,Venezolano,r,1,0,69.6,0,0,0,1,0,185,86,1
+861,0,70.0,Malena Cuenca Ferrer,41,female,1,0,Málaga,Colombiano,r,0,0,32.7,0,1,1,1,1,190,70,1
+862,0,94.71,Judith Calleja Vallejo,55,male,1,1,Barcelona,Argentino,r,0,0,10.99,0,0,0,0,1,191,84,1
+863,1,147.09,Victor Manuel Rey Cañete,40,female,0,1,Sevilla,Argentino,r,0,1,76.63,0,1,1,1,1,152,69,0
+864,1,54.51,Encarnacion Fuente Gomis,23,male,1,0,Barcelona,Colombiano,r,1,0,8.73,0,1,1,0,1,166,60,0
+865,0,107.35,Claudio Grau Ruano,64,male,0,0,Sevilla,Mexicano,r,2,0,93.45,0,1,1,0,1,180,75,1
+866,0,111.03,Fortunata Modesta Hoz Amor,46,male,1,1,Valencia,Venezolano,r,0,0,49.64,0,1,1,1,0,185,50,1
+867,1,54.98,Olimpia Pereira Vilalta,65,male,1,0,Valencia,Colombiano,r,2,0,77.34,0,1,1,0,1,166,76,1
+868,1,123.46,Leticia Prat Garcés,57,male,1,0,Madrid,Colombiano,r,0,0,93.93,1,1,1,0,1,200,83,1
+869,0,120.29,Jaime Simó Llorente,55,male,1,1,Barcelona,Español,r,2,0,23.39,0,0,0,0,0,169,77,1
+870,1,32.46,Inocencio Camino Duran,22,female,0,1,Valencia,Argentino,r,2,1,78.26,0,0,0,1,1,180,51,1
+871,1,36.94,Fanny Aranda Chaves,48,male,1,1,Valencia,Colombiano,r,0,0,17.72,0,1,1,1,0,188,60,0
+872,1,26.38,Anselma Ileana Cuenca Bartolomé,34,female,0,1,Valencia,Argentino,r,1,1,63.05,0,0,0,1,0,162,71,0
+873,0,50.87,Teobaldo Cañizares Armengol,63,female,1,0,Sevilla,Venezolano,r,1,0,1.16,0,1,1,1,1,161,73,1
+874,0,41.94,Mirta Campos Gimenez,23,male,1,0,Valencia,Mexicano,r,2,0,54.02,0,0,0,0,0,162,76,1
+875,0,40.72,Rosario de Exposito,22,male,0,0,Málaga,Argentino,r,2,0,91.82,0,0,0,1,0,183,96,1
+876,1,72.62,Mireia del Juan,39,male,0,0,Madrid,Colombiano,r,1,0,98.89,1,1,1,1,0,151,75,1
+877,1,41.53,Atilio Jorge Almansa Aliaga,49,male,0,1,Madrid,Español,r,1,0,25.68,1,0,0,1,0,184,74,0
+878,0,59.93,Sandalio Jáuregui-Durán,27,male,0,1,Madrid,Español,r,1,1,64.76,1,1,1,1,0,163,60,1
+879,1,79.35,Gregorio Barco Saez,60,female,0,0,Barcelona,Colombiano,r,1,0,56.59,0,0,0,0,1,185,76,1
+880,0,97.89,Primitivo Guerrero Agustí,32,female,0,0,Málaga,Español,r,1,0,44.27,0,0,0,0,0,163,73,0
+881,0,67.08,Rosalía Violeta Alvarez Morera,60,male,1,1,Sevilla,Venezolano,r,2,0,67.53,0,1,1,1,1,152,68,0
+882,1,136.35,Hortensia Gallego Fuentes,46,male,1,1,Barcelona,Venezolano,r,1,0,71.45,0,0,0,1,0,157,75,1
+883,0,53.76,Román Verdú Rubio,28,female,0,0,Sevilla,Español,r,2,0,18.96,0,0,0,1,0,158,59,0
+884,0,49.73,Tomás Olivares Balaguer,35,female,0,0,Sevilla,Colombiano,r,1,0,38.42,0,0,0,0,1,200,76,1
+885,0,52.56,Fátima Mesa,43,female,1,0,Barcelona,Argentino,r,0,0,50.47,0,1,1,1,1,174,94,0
+886,0,92.99,Marina Alcaraz Hierro,34,male,0,0,Madrid,Mexicano,r,1,0,68.32,1,1,1,1,0,169,70,0
+887,0,92.36,Felicia Briones Córdoba,22,male,0,0,Málaga,Español,r,2,0,22.91,0,0,0,0,1,159,63,1
+888,1,63.93,Prudencia Arco Sáez,39,male,1,1,Barcelona,Argentino,r,0,1,66.33,0,0,0,0,1,183,79,1
+889,1,85.15,Máxima Castro,19,female,1,0,Madrid,Mexicano,r,2,1,34.92,1,1,1,1,0,160,96,1
+890,0,113.5,Azahara Llanos Fonseca,40,female,1,1,Valencia,Mexicano,r,1,0,30.38,0,0,0,0,0,196,82,1
+891,1,132.31,Jacobo Morillo Vargas,49,female,0,0,Sevilla,Argentino,r,2,0,71.36,0,0,0,0,0,192,86,1
+892,0,148.26,Marisela del Iglesia,61,female,0,1,Sevilla,Venezolano,r,2,0,40.25,0,1,1,1,0,163,78,0
+893,1,92.59,Octavia Aramburu Salinas,47,male,1,1,Málaga,Mexicano,r,1,0,19.95,0,0,0,0,0,180,88,1
+894,0,15.43,Ruperto Aznar Revilla,37,male,0,1,Madrid,Argentino,r,1,0,26.63,1,1,1,0,1,152,66,0
+895,1,92.85,Emelina Blanco Fajardo,36,female,1,0,Málaga,Mexicano,r,0,0,50.04,0,0,0,1,1,196,57,0
+896,0,90.55,Leonor Ordóñez,60,male,0,0,Barcelona,Colombiano,r,0,0,63.45,0,1,1,1,1,188,73,1
+897,0,16.09,Calisto Ros Diaz,33,female,1,1,Sevilla,Mexicano,r,2,0,39.33,0,0,0,1,1,151,81,1
+898,0,81.76,Ceferino Murcia-Jaén,24,female,1,0,Málaga,Español,r,2,0,42.33,0,0,0,0,1,195,72,1
+899,1,95.67,Celestino Nogués Marti,34,female,0,0,Barcelona,Español,r,2,0,78.77,0,1,1,0,0,154,50,0
+900,1,94.15,Paca Noemí Pagès Roig,33,female,0,1,Madrid,Venezolano,r,2,0,83.43,1,0,0,1,1,160,98,1
+901,0,39.7,Alma Mas Giner,18,male,1,0,Sevilla,Español,r,0,1,49.6,0,0,0,1,1,183,77,0
+902,0,117.7,José María Peñas Pazos,34,male,0,0,Valencia,Argentino,r,1,0,98.2,0,0,0,0,1,193,93,1
+903,0,92.57,Nacho Maestre Costa,36,male,1,0,Valencia,Colombiano,r,2,0,47.5,0,1,1,1,1,171,74,1
+904,0,121.69,Severino del Velázquez,22,male,0,1,Barcelona,Colombiano,r,2,1,21.83,0,0,0,0,1,159,69,1
+905,1,100.0,Angelita Vergara,53,male,1,1,Málaga,Colombiano,r,0,0,65.56,0,0,0,0,1,152,56,1
+906,0,86.46,Ariadna Ricart,61,male,1,1,Valencia,Colombiano,r,2,0,24.3,0,1,1,1,0,171,76,0
+907,0,70.1,Miguel de Cáceres,23,female,1,0,Madrid,Mexicano,r,0,0,16.49,1,1,1,0,0,198,89,0
+908,1,77.55,Juan Francisco Durán Arévalo,50,male,1,1,Barcelona,Colombiano,r,1,0,34.85,0,1,1,1,1,197,57,1
+909,0,12.23,Adelia Arce Menendez,65,male,0,1,Madrid,Colombiano,r,2,0,62.17,1,0,0,0,0,195,84,0
+910,0,73.23,Salvador Mata Corral,60,female,1,0,Madrid,Español,r,0,0,88.66,1,1,1,0,1,198,83,0
+911,1,83.82,Cornelio Pombo-Baró,56,male,1,1,Madrid,Colombiano,r,2,1,8.36,1,1,1,1,1,197,63,1
+912,0,70.2,Inés Beltran-Lamas,29,male,0,0,Madrid,Mexicano,r,0,0,44.24,1,0,0,0,1,196,86,0
+913,1,147.59,Evita Feliu Fernandez,47,female,1,0,Sevilla,Venezolano,r,0,0,48.2,0,0,0,1,0,151,86,1
+914,1,52.18,Jaime Aguado Bustos,37,female,0,0,Sevilla,Argentino,r,0,0,9.06,0,0,0,0,0,197,57,0
+915,0,122.61,Bernardino Cazorla-Conde,54,male,1,0,Sevilla,Venezolano,r,1,0,79.29,0,0,0,1,0,191,97,1
+916,0,56.3,Luis Ángel Calixto Arce Agudo,23,male,1,0,Málaga,Español,r,1,1,81.91,0,0,0,0,1,150,56,1
+917,1,30.16,Matías Gilabert-Marin,39,female,0,0,Valencia,Español,r,0,0,66.27,0,0,0,1,1,187,66,1
+918,1,110.29,Eufemia Calvo Pozuelo,19,female,0,0,Sevilla,Venezolano,r,1,0,29.58,0,0,0,0,1,153,60,0
+919,1,119.76,Epifanio Arco Barrera,32,female,0,1,Málaga,Argentino,r,0,0,71.55,0,0,0,0,1,159,84,1
+920,1,66.61,Horacio Viñas Marquez,36,female,0,0,Barcelona,Colombiano,r,0,0,96.75,0,0,0,1,1,169,98,0
+921,1,145.84,Marita Méndez Díaz,26,female,1,1,Barcelona,Mexicano,r,1,0,65.29,0,0,0,0,1,165,67,1
+922,0,116.3,Benigno Gras,33,male,1,0,Madrid,Español,r,0,0,53.63,1,0,0,1,1,172,50,1
+923,1,145.7,Flavia Sedano,65,female,0,1,Málaga,Argentino,r,1,0,57.8,0,1,1,1,1,199,97,1
+924,1,97.74,Lorena Eva Yuste Quintanilla,49,female,1,0,Madrid,Español,r,1,1,52.21,1,0,0,1,1,169,82,1
+925,0,98.79,Haroldo Mariño Heras,60,male,0,0,Madrid,Colombiano,r,2,0,83.37,1,0,0,0,1,176,68,0
+926,0,53.52,Ciriaco Barros,65,male,0,1,Madrid,Español,r,1,0,78.46,1,0,0,0,0,168,88,1
+927,1,131.91,Abel Díez Boix,38,male,1,0,Barcelona,Mexicano,r,2,0,27.53,0,0,0,1,1,157,87,0
+928,1,43.45,Domitila Rocío Molina Pastor,41,male,1,0,Valencia,Español,r,1,0,4.75,0,0,0,1,1,187,94,1
+929,1,45.01,Isidora Cases Torres,27,female,1,0,Barcelona,Mexicano,r,1,0,70.98,0,1,1,0,0,152,64,0
+930,1,30.28,Hilda Caro Segarra,21,male,1,0,Málaga,Español,r,2,0,76.49,0,0,0,1,0,177,66,1
+931,0,103.2,Ainara Alcalde Carvajal,58,female,0,0,Madrid,Colombiano,r,0,0,70.72,1,0,0,0,0,176,55,0
+932,1,104.06,Moreno Aparicio Huertas,29,male,1,1,Málaga,Español,r,1,0,73.75,0,1,1,0,0,170,50,1
+933,1,37.87,Juliana Pont,34,male,1,1,Málaga,Español,r,2,0,12.35,0,1,1,0,0,177,96,0
+934,1,70.78,Ambrosio Aliaga Ordóñez,53,male,1,0,Málaga,Colombiano,r,1,0,44.24,0,0,0,0,0,165,85,0
+935,0,74.33,Tadeo Abril-Mendoza,64,female,1,1,Sevilla,Venezolano,r,2,0,47.73,0,1,1,1,1,183,91,0
+936,1,96.74,Tecla Marcela Barrios Palmer,23,male,1,0,Sevilla,Argentino,r,2,0,56.95,0,0,0,1,0,191,87,0
+937,0,124.51,Marc Manolo Rico Torrecilla,32,male,1,0,Sevilla,Colombiano,r,1,0,61.18,0,1,1,0,1,165,71,1
+938,0,83.8,Fanny Manuel Beltrán,19,male,0,1,Valencia,Colombiano,r,0,0,30.35,0,0,0,0,1,150,52,0
+939,1,85.0,Raúl Lucena-Amador,55,male,0,1,Madrid,Venezolano,r,2,0,60.56,1,0,0,0,1,168,89,0
+940,0,116.38,José Sebastián Nicolau,42,female,1,1,Barcelona,Venezolano,r,0,0,45.97,0,1,1,0,1,176,69,0
+941,1,149.91,Quique Corominas,64,female,1,1,Madrid,Español,r,0,1,28.09,1,1,1,1,1,173,98,0
+942,0,133.4,Maxi Infante Gibert,35,female,0,0,Barcelona,Colombiano,r,0,0,40.74,0,1,1,1,0,178,67,1
+943,1,50.11,Heriberto Castillo Macias,44,male,0,0,Sevilla,Argentino,r,2,0,6.68,0,0,0,0,1,154,99,1
+944,0,43.84,Samu Rueda Cal,53,female,0,0,Madrid,Colombiano,r,0,0,7.74,1,0,0,1,0,198,56,0
+945,0,77.78,René Figueroa,36,female,1,1,Barcelona,Argentino,r,1,1,15.06,0,0,0,1,0,191,81,1
+946,1,118.53,Tristán Pereira,23,female,0,0,Valencia,Argentino,r,0,0,93.21,0,1,1,1,1,194,70,0
+947,0,117.94,Fidel Borrego Salinas,27,female,0,1,Madrid,Colombiano,r,2,1,70.39,1,1,1,1,0,178,84,0
+948,1,40.83,Sergio Ciro Iborra Madrid,32,male,1,1,Barcelona,Mexicano,r,0,0,78.69,0,0,0,0,1,197,95,0
+949,0,31.87,Catalina del Malo,37,female,1,0,Málaga,Mexicano,r,0,0,17.28,0,1,1,1,0,163,64,0
+950,0,92.78,Marc Fonseca Salazar,64,female,1,0,Valencia,Español,r,2,0,55.43,0,1,1,0,1,188,75,0
+951,1,133.82,Teo Barrena Hurtado,63,female,0,0,Valencia,Mexicano,r,1,0,6.52,0,1,1,1,1,171,77,0
+952,0,84.04,Carmen Carla Garriga Beltrán,55,male,0,0,Valencia,Venezolano,r,1,0,95.41,0,1,1,1,1,165,74,1
+953,1,31.35,Luis Miguel Fiol Iniesta,40,female,1,1,Madrid,Venezolano,r,2,0,98.37,1,1,1,1,1,171,70,1
+954,0,133.63,María Pilar Bermejo-Rueda,18,female,0,0,Madrid,Argentino,r,2,0,65.88,1,1,1,0,0,176,81,0
+955,1,97.39,Gerardo Atienza Dueñas,23,male,1,1,Madrid,Colombiano,r,0,0,27.71,1,0,0,0,1,174,93,1
+956,1,130.67,Raúl Jerez Juliá,63,male,0,0,Madrid,Argentino,r,1,0,57.7,1,1,1,0,0,151,67,1
+957,0,38.0,Jaime del Aguirre,30,female,1,0,Málaga,Mexicano,r,2,0,90.7,0,0,0,0,1,165,90,0
+958,0,54.69,Clotilde de Bautista,28,male,0,0,Madrid,Mexicano,r,0,0,26.1,1,0,0,0,1,188,50,0
+959,0,76.49,Joaquín Folch-Bejarano,41,female,0,0,Málaga,Colombiano,r,2,0,54.73,0,1,1,1,0,165,50,1
+960,0,117.16,Fabián Samper Pedro,22,male,1,1,Madrid,Español,r,1,0,19.26,1,1,1,0,0,190,82,1
+961,0,113.26,Hilda Samper Ugarte,55,female,0,1,Sevilla,Mexicano,r,2,0,26.04,0,0,0,0,1,184,53,1
+962,0,53.63,Nuria Ramirez Mariscal,20,female,1,0,Valencia,Mexicano,r,1,1,33.9,0,0,0,0,0,159,90,0
+963,0,10.37,Ximena Amorós Jordán,25,female,0,0,Madrid,Español,r,1,0,31.99,1,0,0,0,0,191,72,0
+964,0,133.85,Heraclio Gálvez Fernandez,63,male,0,1,Sevilla,Venezolano,r,1,0,44.96,0,0,0,1,0,153,63,0
+965,1,113.94,Tania Lobato Cerro,30,female,0,0,Sevilla,Español,r,0,0,9.67,0,0,0,0,0,181,69,1
+966,1,85.92,Águeda Tomas Blanch,61,male,0,1,Valencia,Mexicano,r,2,0,56.43,0,0,0,0,1,177,97,0
+967,0,144.03,Marcelo Capdevila-Galan,44,female,1,0,Sevilla,Mexicano,r,2,0,63.82,0,0,0,0,1,183,75,0
+968,0,26.46,Natalio Castejón,44,male,0,0,Barcelona,Español,r,2,0,44.88,0,1,1,0,0,185,86,0
+969,0,103.34,Dani Requena Álamo,52,female,0,0,Sevilla,Colombiano,r,1,0,13.5,0,1,1,0,0,154,58,1
+970,1,141.44,Carlota del Santos,29,female,0,0,Sevilla,Colombiano,r,0,0,75.08,0,1,1,0,1,181,65,1
+971,1,41.72,Alejo Quintero Riera,22,female,1,0,Barcelona,Colombiano,r,0,0,15.42,0,1,1,0,0,185,64,1
+972,0,32.32,Rocío del Téllez,50,female,0,1,Madrid,Español,r,2,0,17.9,1,1,1,0,0,187,67,0
+973,0,49.21,Xiomara Ainara Bermudez Cazorla,32,male,1,1,Sevilla,Argentino,r,1,0,94.67,0,1,1,0,1,185,52,1
+974,0,49.8,Pancho Hervás Ferrer,51,male,0,0,Barcelona,Argentino,r,1,0,14.2,0,0,0,1,1,155,58,0
+975,0,31.52,Sara Palomo Castañeda,57,male,0,1,Madrid,Argentino,r,2,0,9.55,1,1,1,1,0,174,71,1
+976,0,94.88,Nuria Zamorano Iriarte,40,female,0,1,Barcelona,Mexicano,r,1,0,88.81,0,0,0,0,0,190,97,1
+977,0,104.07,Azucena Piña Huertas,31,female,0,0,Madrid,Venezolano,r,1,1,80.78,1,1,1,0,1,175,75,1
+978,0,22.97,Custodio Barbero Calderón,38,female,0,1,Valencia,Argentino,r,1,0,20.35,0,0,0,0,1,159,84,1
+979,1,28.34,Alonso Barral Cabello,42,male,0,1,Valencia,Argentino,r,1,0,33.55,0,0,0,1,1,195,65,1
+980,0,39.57,María Belén Torrent Peláez,18,female,1,1,Málaga,Argentino,r,0,0,98.27,0,1,1,0,1,178,60,1
+981,0,78.89,Jovita Pellicer Lasa,58,male,1,0,Barcelona,Argentino,r,1,0,64.25,0,1,1,1,0,168,73,1
+982,1,115.5,Teobaldo Casanova Bas,60,male,1,0,Valencia,Venezolano,r,1,1,45.98,0,0,0,1,1,165,50,1
+983,0,117.93,Lidia Múñiz,45,male,1,1,Madrid,Mexicano,r,2,0,21.37,1,0,0,0,1,193,99,1
+984,0,132.48,Iker Reinaldo Tejera Ferrández,34,female,1,0,Málaga,Venezolano,r,1,0,35.82,0,0,0,1,0,187,99,1
+985,1,117.25,Kike Orozco Mora,43,female,1,0,Barcelona,Colombiano,r,1,0,90.89,0,1,1,0,1,182,78,0
+986,0,63.48,Salvador Alba Macias,31,male,1,1,Málaga,Argentino,r,0,0,74.3,0,0,0,0,0,188,64,1
+987,1,117.32,Loreto Bueno-Valero,27,male,0,0,Madrid,Español,r,0,0,25.73,1,1,1,1,0,151,59,0
+988,0,106.88,Yésica Pozo-Haro,18,male,1,1,Barcelona,Mexicano,r,2,0,86.77,0,0,0,0,0,199,74,1
+989,0,129.62,Carolina Vives Santiago,51,male,1,1,Sevilla,Venezolano,r,0,0,49.04,0,1,1,0,0,196,73,0
+990,0,51.94,Yésica Guerrero Valencia,57,female,0,0,Valencia,Mexicano,r,0,0,59.15,0,1,1,1,0,194,91,0
+991,0,46.05,Curro Piñeiro Gutierrez,36,female,1,0,Valencia,Español,r,1,1,14.41,0,0,0,0,1,152,70,1
+992,1,27.15,Ani Rebollo Perez,29,female,1,1,Málaga,Argentino,r,0,0,44.18,0,1,1,1,0,197,82,0
+993,1,68.06,José Antonio Gimenez Camino,65,male,0,1,Málaga,Mexicano,r,2,0,0.57,0,1,1,1,1,186,90,0
+994,0,67.92,Ricarda Ángel Peláez,25,female,0,1,Málaga,Mexicano,r,1,0,56.27,0,1,1,0,0,184,79,1
+995,1,20.98,Gabriel Cañellas Rico,38,female,1,1,Barcelona,Mexicano,r,0,0,33.32,0,1,1,1,1,171,96,0
+996,0,107.55,Hernán Poncio Quintanilla Canales,18,male,1,1,Valencia,Español,r,1,0,49.63,0,1,1,0,1,167,56,0
+997,1,22.46,Marc Casemiro Vilalta Buendía,37,male,1,0,Barcelona,Mexicano,r,1,1,86.08,0,0,0,0,0,181,79,1
+998,0,74.44,Cleto Chaparro Perelló,29,female,1,0,Sevilla,Mexicano,r,2,0,86.7,0,0,0,0,1,163,75,1
+999,0,86.96,Georgina Amat Galván,61,female,1,1,Madrid,Venezolano,r,0,0,11.77,1,1,1,0,0,181,95,0
